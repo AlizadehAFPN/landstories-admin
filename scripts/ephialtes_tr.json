@@ -1,0 +1,151 @@
+{
+  "siteId": {
+    "S": "thermopylae"
+  },
+  "storyId": {
+    "S": "ephialtes-betrayal"
+  },
+  "coordinates": {
+    "M": {
+      "lng": {
+        "N": "22.5367"
+      },
+      "lat": {
+        "N": "38.7967"
+      }
+    }
+  },
+  "disabled": {
+    "BOOL": false
+  },
+  "era": {
+    "S": "480 BCE"
+  },
+  "hasAudio": {
+    "BOOL": false
+  },
+  "icon": {
+    "S": "🐍"
+  },
+  "image": {
+    "S": ""
+  },
+  "isFree": {
+    "BOOL": true
+  },
+  "readingTimeMinutes": {
+    "N": "2"
+  },
+  "source": {
+    "S": "Herodotus’s Histories (Book 7, chapters 213-218), Plutarch’s Moralia"
+  },
+  "storyCategory": {
+    "S": "ghosts_curses"
+  },
+  "thumbnail": {
+    "S": ""
+  },
+  "tier": {
+    "S": "A"
+  },
+  "lang": {
+    "S": "tr"
+  },
+  "langStoryId": {
+    "S": "tr#ephialtes-betrayal"
+  },
+  "updatedAt": {
+    "N": "1771451054"
+  },
+  "title": {
+    "S": "Ephialtes’in İhaneti"
+  },
+  "subtitle": {
+    "S": "Yunanistan’ı Pers altınına satan adam"
+  },
+  "excerpt": {
+    "S": "«Sabrın sonu selamettir» derler. Thermopylae’de Pers Kralı Kserkses’in sabrı tükendi ve selamete kavuştu — ama o selamet bir hainin elinden geldi. Üç yüz Spartalı’nın durdurduğu koca imparatorluğu, dağlardaki gizli bir patikayı bilen tek bir adam yıktı."
+  },
+  "moralOrLesson": {
+    "S": "İhanet savaş meydanlarının en yıkıcı silahıdır — üç yüz Spartalı’nın cesaretinin başardığını tek bir hain geri aldı."
+  },
+  "characters": {
+    "L": [
+      {
+        "S": "Trachisli Ephialtes"
+      },
+      {
+        "S": "Kral Kserkses"
+      },
+      {
+        "S": "Pers Ölümsüzleri"
+      },
+      {
+        "S": "Fokis muhafızları"
+      },
+      {
+        "S": "Kral Leonidas"
+      }
+    ]
+  },
+  "paragraphs": {
+    "L": [
+      {
+        "M": {
+          "text": {
+            "S": "«Sabrın sonu selamettir» derler. Thermopylae’de Pers Kralı Kserkses’in sabrının sonu gerçekten selamet oldu — ama o selamet kahramanlıkla değil, ihanetle geldi. Tarihin en ünlü son direnişinde üç yüz Spartalı ve birkaç bin Yunan müttefiki, dar bir sahil geçidinde koca Pers İmparatorluğu’nu durdurmuştu. Onları yenen daha güçlü bir ordu değildi. Bölgeyi avucunun içi gibi bilen Ephialtes adında bir adamdı — dağlarda gizli bir patika biliyordu ve satmaya karar vermişti."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "MÖ 480 yazının son günlerinde Yunanlılar iki gün boyunca Perslere o dar geçidin her karışını kan pahasına ödetti. Pers Kralı Kserkses öyle büyük bir orduyla gelmişti ki antik tarihçiler ordunun su içtiğinde nehirleri kuruttuğunu yazıyordu. Ama Thermopylae’de bunların hiçbiri işe yaramadı. Geçit o kadar dardı ki aynı anda sadece bir avuç asker dövüşebiliyordu — ve en önde duran Spartalılar antik dünyanın en iyi eğitimli savaşçılarıydı."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Kserkses çaresiz kalmıştı. Seçkin birliği Ölümsüzler — düşen her askerin anında yerine yenisi konduğu için bu adı alan on bin kişilik özel kuvvet — Yunan savunma hattına saldırmış ve geri püskürtülmüştü. Tam o sırada Ephialtes Pers ordugâhına çıkageldi. Bölgenin her taşını tanıyan bir yerliydi ve satacak bir şeyi vardı: Yunanların arkasına dolaşan gizli bir dağ yolunun yeri. Fiyatı mı? Altın. Bol miktarda altın."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Kserkses bir an bile tereddüt etmedi. O gece Ölümsüzlerin tamamını — on bin kişiyi — Ephialtes’in peşinden gizli patikaya yolladı. Spartalılar tamamen hazırlıksız değildi: Kral Leonidas, Fokis bölgesinden bin askeri o yolu korumakla görevlendirmişti. Ama Ölümsüzler şafakla birlikte ağaçların arasından belirdiğinde nöbetçiler paniğe kapıldı. Yakındaki bir tepeye tırmanarak canlarını kurtardılar ve yolu ardına kadar açık bıraktılar."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Güneş doğduğunda Leonidas sonun geldiğini anladı. Persler yakında arkasına geçecek, küçük kuvveti kuşatılacaktı. O an tarihi efsaneye çeviren kararı verdi: Yunan ordusunun büyük bölümünü güneye, güvenliğe gönderdi. Kendisi geride kaldı — üç yüz Spartalısı ve Thespiai şehrinden gelen yedi yüz gönüllüyle birlikte. Görevleri basit ve imkânsızdı: geridekiler kaçana kadar dayanmak."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Ve dayandılar. Mızrakları kırılana dek savaştılar, sonra kılıçlarıyla, sonra yalın elleriyle. Son nefeslerine kadar dövüştüler ve hepsi öldü. Ama fedakârlıkları boşa gitmedi — çekilen Yunan ordusu kurtuldu, yeniden toplandı ve ertesi yıl boyunca verilen savaşlarda Persleri yenilgiye uğrattı. Üç yüz kişi öldü ki Yunanistan yaşasın."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Ya Ephialtes? Yunanlılar başına öyle büyük bir ödül koydu ki hayatının geri kalanını kaçarak geçirdi. Kuzeye, Teselya’ya sığındı — ama bütün bir uygarlık seni ararken saklanacak yer yoktur. Antik tarihçi Herodotos’a göre Ephialtes sonunda öldürüldü — ihanetiyle bile alakası olmayan sıradan bir kişisel kavgada. Spartalılar katilini yine de ödüllendirdi. Adalet adalettir — tesadüfen gelse bile."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "İki buçuk bin yıl geçti ve Ephialtes adı hâlâ lekelidir. Modern Yunancada «Ephialtes» kelimesi tam anlamıyla «kâbus» demek. Senin için savaşanları satmanın gerçek bedeli işte budur. Üç yüz Spartalı ölümsüzleşti. Onlara ihanet eden adam ise gecenin karanlığında insanı çığlık çığlığa uyandıran şeyin adı oldu. Sabrın sonu selamet olabilir — ama Kserkses’e gelen selamet bir hainin elinden geldi. Ve tarih sabredeni değil, savaşanları hatırladı."
+          }
+        }
+      }
+    ]
+  }
+}

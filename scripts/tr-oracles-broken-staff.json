@@ -1,0 +1,40 @@
+{
+  "siteId": {"S": "baalbek"},
+  "langStoryId": {"S": "tr#oracles-broken-staff"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "oracles-broken-staff"},
+  "title": {"S": "Kırık Asa"},
+  "subtitle": {"S": "Boş bir mektupla tanrıyı sınayan imparator, cevabını kırık bir asada buldu — kendi ölümünün haberini"},
+  "excerpt": {"S": "Dünyanın en güçlü adamı, doğuya yürümeden önce Baalbek'teki kâhine mühürlü bir mektup gönderdi. Mektubun içi bomboştu. Bu bir sınavdı."},
+  "moralOrLesson": {"S": "En güçlü insanlar bile kendilerinden büyük güçlere danışır. Ve en korkunç kehanet yenilgi öngören değildir — zafer vaat edip bedelini soranın hayal edemeyeceği şekilde ödetendir."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Yıl 114. Roma İmparatorluğu'nun tahtında bir asker oturuyor: Traianus. Senato ona resmen 'hükümdarların en iyisi' demiş. Fetihlerle genişletmiş sınırları, ardında anıtlar bırakmış. Ama bir hesap hâlâ kapanmamış. Doğuda Part İmparatorluğu, iki yüz yıldır Roma'nın kabusu. General Crassus'un ordusunu Carrhae'de yok etmişler. Traianus bu utancı silmeye kararlı. Ama tek bir asker hareket etmeden önce, hiç beklenmedik bir şey yaptı. Bir tanrıya mektup yazdı."}}},
+    {"M": {"text": {"S": "Sıradan bir tanrı değildi. Baalbek'teki tapınak — bugünkü Lübnan topraklarında — devasa bir kehanet merkeziydi. Romalılar ona Jupiter Heliopolitanus dese de aslında Baal'dı; fırtına tanrısı. Roma daha kurulmadan binlerce yıl önce o tepede tapılıyordu. Kehanet şöyle işliyordu: rahipler altın bir heykeli platform üzerinde taşıyor, soru sorulduğunda heykel kendi kendine hareket ediyordu. Sarsılıyor, dönüyor, geri çekiliyordu. Rahipler bu hareketleri tanrının cevabı olarak okuyordu."}}},
+    {"M": {"text": {"S": "Ama Traianus kolay güvenen biri değildi. Soylu kanla değil, savaş meydanında yükselmişti. Her istihbarat raporunu iki kez kontrol eden bir komutanın içgüdüleri vardı. Bu yüzden kâhine bir tuzak kurdu. Bomboş bir kâğıda imparatorluk mührünü bastı ve tapınağa gönderdi. Mesajı netti: gerçeksen kanıtla. Rahipler ritüellerini yaptı. Kâhinden gelen cevap — boş bir parşömen. Tek bir harf yok. Traianus'un gönderdiğinin birebir aynası. Sınav değildi artık — kanıttı."}}},
+    {"M": {"text": {"S": "İkna olmuştu. Asıl sorusunu sordu — geceleri uykusunu kaçıran soruyu. Sefer başarılı olacak mıydı? Eve sağ dönecek miydi? Kâhin kelimeyle cevap vermedi. Rahipler bir yüzbaşı asası aldılar — Roma subaylarının komuta simgesi olan tahta bastonu — ve kırdılar. Parçaları beze sardılar, imparatora gönderdiler. Bu bir bilmeceydi. Çözülmesi tam üç yıl sürecekti."}}},
+    {"M": {"text": {"S": "İlk başta her şey muhteşemdi. Traianus Mezopotamya'yı fırtına gibi geçti, Part başkenti Ktesifon'u aldı, Basra Körfezi'ne ulaştı — hiçbir Roma ordusunun varmadığı yere. Kıyıda durup 'Keşke genç olsaydım, Büyük İskender gibi Hindistan'a kadar yürürdüm' dedi. Sonra her şey çöktü. İsyanlar patlak verdi. Sağlığı bozuldu. 117 yılında geri dönerken ağır bir felç geçirdi ve öldü. Külleri altın bir kap içinde Roma'ya taşındı, adını taşıyan sütunun dibine konuldu."}}},
+    {"M": {"text": {"S": "Kırılmış bir asa, beze sarılı. Kırılmış bir beden, eve taşınan. Kâhin korkunç bir kesinlikle konuşmuştu: her şeyi fethedeceksin ama asla sağ dönmeyeceksin. Derler ki her nimete bir külfet düşer. Bu kehanette nimet zaferdi — külfet de kefendi. Tarihin en acımasız kehanetidir belki de bu. Yenilgi vaat etmedi, mutlak zafer verdi. Ama bedeli bilmecenin içine gömdü. Kimse çözemedi — iş işten geçene kadar."}}},
+    {"M": {"text": {"S": "O kehaneti söyleyen tanrı, Traianus'tan yüzyıllar sonra da yaşadı. İmparatorluğun dört bir yanından hacılar geldi — aşkı, savaşı, ölümü sormak için. Sonra 391'de Hristiyan İmparator Theodosius eski tanrıları şeytan ilan etti ve tüm pagan ibadetini yasakladı. Baalbek'teki ateşler söndü. Altın heykel yok edildi. Bir zamanlar imparatorların ölümünü önceden gören kâhin, sonsuza dek susturuldu."}}},
+    {"M": {"text": {"S": "Bugün Baalbek'te altı devasa sütun hâlâ ayakta — antik dünyanın en yüksek sütunları. İmparatorları kapısına getiren, ama duymak istemedikleri gerçeği söylemekten çekinmeyen bir tanrının son tanıkları. Asa çoktan yok oldu. Ama kehanet — harf harf, kırık kırık — yerini buldu."}}}
+  ]},
+  "icon": {"S": "🔮"},
+  "tier": {"S": "S"},
+  "source": {"S": "Macrobius, Saturnalia I.23 (c. 400 CE); Cassius Dio, Roman History LXVIII.29; Hajjar, Youssef. La triade d'Héliopolis-Baalbek, 1977; Kropp & Lohmann, Temple Construction at Baalbek, 2011; Butcher, Kevin. Roman Syria and the Near East, 2003"},
+  "characters": {"L": [
+    {"S": "Emperor Trajan (Marcus Ulpius Traianus)"},
+    {"S": "Jupiter Heliopolitanus (the oracle god)"},
+    {"S": "Macrobius (Roman author who recorded the prophecy)"},
+    {"S": "Baal-Hadad (the Canaanite storm god beneath Jupiter's mask)"},
+    {"S": "Emperor Theodosius I (who silenced the oracle forever)"}
+  ]},
+  "era": {"S": "114 CE (Trajan's consultation); c. 400 CE (Macrobius's account); 391 CE (temple closure)"},
+  "readingTimeMinutes": {"N": "4"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773434502"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "36.2039"}, "lat": {"N": "34.0069"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "prophecies_curses"}
+}

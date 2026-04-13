@@ -1,0 +1,39 @@
+{
+  "siteId": {"S": "persepolis"},
+  "langStoryId": {"S": "tr#twenty-three-nations"},
+  "lang": {"S": "tr"},
+  "title": {"S": "Yirmi Üç Millet, Bir Kral"},
+  "subtitle": {"S": "Tarihin en büyük imparatorluğu gücünü şiddetle değil, farklılıklarla taşa kazıdı — yirmi üç halk, dimdik ayakta, kralın huzurunda"},
+  "excerpt": {"S": "Persepolis'in merdivenlerine kazınmış yirmi üç millet yürüyor — her biri kendi kıyafetiyle, kendi hediyesiyle, kendi onuruyla. Kimse diz çökmüyor. Antik dünyanın taşa kazınmış en cesur siyasi bildirisi."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Güney İran'da, Persepolis denen bir harabe var. Pers İmparatorluğu'nun tören başkenti — dönemin yeryüzündeki en büyük devleti. Ve burada bir merdiven var, taştan oyulmuş. Üzerinde yirmi üç farklı halk yürüyor, krallarına doğru. Her biri kendi kıyafetiyle, kendi hediyesiyle, kendi kimliğiyle. Kimse diz çökmüyor. Kimse zincirde değil. Antik dünyada böyle bir şey görülmemişti."}}},
+    {"M": {"text": {"S": "Detaylar akıl almaz. Güneybatı İran'dan gelen Elamlılar, iki yavrusuyla bir dişi aslan taşıyor — kaslarını bile sayabilirsin. Ermeniler öyle zarif bir at getirmiş ki gem süslerini tek tek görebilirsin. Babilliler her püskülü ayrı ayrı taşa kazınmış kumaşlar ve hörgüçlü bir boğa sunuyor. Lidyalılar — bugünkü Ege Bölgesi'nden, altınlarıyla ünlü topraklardan — altın bilezikler ve minyatür bir savaş arabası getirmiş. Etiyopyalılar fildişi. Her millet tam olarak kendine benziyor."}}},
+    {"M": {"text": {"S": "Bunun ne kadar çığır açıcı olduğunu anlamak için geçmişe bakmak lazım. Perslerden önce bölgeye yüzyıllarca Asurlular hükmetmişti. Saraylarını nasıl süslüyorlardı biliyor musun? Düşmanların kazığa oturtulduğu, kafalarının kesildiği, derilerinin yüzüldüğü sahnelerle. Güç böyle gösterilirdi: korku salarak. Persepolis kabartmalarında ise tek bir şiddet sahnesi yok. Persler Babil'i fethetmiş, o geleneği görmüş ve tam tersini seçmişti."}}},
+    {"M": {"text": {"S": "Üstelik Persler bu fikri sadece duvara kazımadı — inşa etti. Kral Darius, binanın temellerine altın ve gümüş levhalar gömdürdü. Üzerinde yapıyı kimlerin diktiği yazıyordu: \"Taş ustaları Yunan ve Lidyalıydı. Kuyumcular Medli ve Mısırlıydı. Tuğlacılar Babilliydi.\" İmparatorluğun en görkemli yapısını, her köşesinden gelen insanlar inşa etmiş. Çeşitliliğe adanan anıtın kendisi de çeşitliydi."}}},
+    {"M": {"text": {"S": "Kabartmanın tam ortasında Krallar Kralı oturuyor — büyük ihtimalle Darius. Bir elinde nilüfer, diğerinde asa. Arkasında oğlu Xerxes, aynı boyda: sülale devam edecek mesajı. Ama asıl gizemli sahne karşı merdivende: bir aslan, bir boğaya dişlerini geçiriyor. Uzmanlar bunun bir yıldız haritası olduğunu düşünüyor — Aslan burcunun Boğa'yı yakaladığı an, baharın tam başlangıcı. Nevruz. Bütün o yürüyüş aslında taştan bir takvim."}}},
+    {"M": {"text": {"S": "Peki gerçekten böyle miydi? Tarihçiler bunu onlarca yıldır tartışıyor. \"Hediyeler\" aslında vergiydi. \"Gönüllü katılım\"ın arkasında koca bir ordu vardı. Gülümsemeler propagandaydı. Ama en şüpheci tarihçiler bile bir şeyi kabul ediyor: Persler gerçekten farklıydı. İmparatorluğun kurucusu Büyük Kiros, fethettiği halkların tanrılarına ve geleneklerine dokunmayacağını ilan etmişti — tarihin ilk dini hoşgörü fermanlarından biri. Sanat abartıyor mu? Evet. Ama var olan bir şeyi abartıyor."}}},
+    {"M": {"text": {"S": "Büyük İskender MÖ 330'da Persepolis'i ateşe verdiğinde — muhtemelen sarhoştu, kesinlikle bir mesaj veriyordu — enkaz doğu merdivenini gömerek aslında korudu. Bugün yetmiş iki sütundan on üçü hâlâ ayakta. Ve her bahar, üç yüz milyon insan Nevruz'u kutluyor — iki buçuk bin yıl önce bu taşlara kazınan ritüeli yaşatarak. Bir çiçekle bahar olmaz derler ya — Persler yirmi üç milletin adımlarından bir bahar yarattı. O yürüyüş hâlâ sürüyor. Henüz varmadı. Varmayacak da. Zaten bütün mesele bu."}}}
+  ]},
+  "moralOrLesson": {"S": "Gerçek güç, altındakileri ezmekle değil, onların dimdik durmasına izin vermekle gösterilir — Persepolis kabartmaları tarihin en güzel savıdır: bir imparatorluğun büyüklüğü dayattığı tekdüzelikle değil, yaşattığı çeşitlilikle ölçülür."},
+  "characters": {"L": [
+    {"S": "I. Darius (Büyük Kral)"},
+    {"S": "I. Xerxes (Apadana'yı tamamlayan)"},
+    {"S": "23 tabi millet"},
+    {"S": "İyonyalı Yunan ve Mısırlı zanaatkârlar"},
+    {"S": "Ernst Herzfeld (kazıyı yöneten arkeolog)"}
+  ]},
+  "coordinates": {"M": {"lng": {"N": "52.8914"}, "lat": {"N": "29.9342"}}},
+  "disabled": {"BOOL": false},
+  "era": {"S": "MÖ 515–465 (inşaat); 1931–1939 (kazı çalışmaları)"},
+  "hasAudio": {"BOOL": false},
+  "icon": {"S": "🏛️"},
+  "image": {"S": ""},
+  "isFree": {"BOOL": true},
+  "readingTimeMinutes": {"N": "4"},
+  "source": {"S": "Schmidt, Erich F., Persepolis I: Structures, Reliefs, Inscriptions (1953); Root, Margaret Cool, The King and Kingship in Achaemenid Art (1979); Briant, Pierre, From Cyrus to Alexander (2002); Garrison, Mark and Root, Margaret Cool, Seals on the Persepolis Fortification Tablets (2001–); Kuhrt, Amélie, The Persian Empire: A Corpus of Sources (2007)"},
+  "storyCategory": {"S": "riddles_past"},
+  "storyId": {"S": "twenty-three-nations"},
+  "thumbnail": {"S": ""},
+  "tier": {"S": "A"},
+  "updatedAt": {"N": "1773662216"}
+}

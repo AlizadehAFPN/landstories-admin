@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "notre-dame-de-paris"},
+  "langStoryId": {"S": "fr#crown-of-thorns-rescue"},
+  "title": {"S": "La Couronne dans les flammes"},
+  "subtitle": {"S": "La chaîne humaine qui a sauvé la plus sacrée des reliques chrétiennes de l'incendie de Notre-Dame"},
+  "excerpt": {"S": "Le soir du 15 avril 2019, Notre-Dame brûlait. Mais à l'intérieur de la cathédrale en flammes, un aumônier et une poignée de pompiers menaient un sauvetage que personne dehors ne pouvait voir."},
+  "moralOrLesson": {"S": "Certaines choses survivent non par chance, mais parce qu'à chaque génération, quelqu'un décide qu'elles méritent qu'on entre dans le feu pour elles."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Le soir du 15 avril 2019, de la fumée a commencé à monter du toit de Notre-Dame. En moins d'une heure, la charpente de chêne — huit cent cinquante ans d'âge, bâtie avec une forêt entière d'arbres — n'était plus qu'un mur de flammes. La flèche de la cathédrale s'est effondrée en direct devant des millions de téléspectateurs en larmes. Mais à l'intérieur du brasier, quelque chose de bien plus intense se jouait que ce qu'on pouvait voir de dehors."}}},
+    {"M": {"text": {"S": "Le père Jean-Marc Fournier — aumônier de la Brigade des sapeurs-pompiers de Paris — progressait dans les couloirs enfumés avec une équipe de pompiers. Pas pour sauver des vies humaines. Pour récupérer un objet sous garde ininterrompue depuis presque deux mille ans : la Couronne d'épines, celle que les chrétiens croient avoir été posée sur la tête du Christ avant sa crucifixion. Elle reposait dans le trésor de la cathédrale. Et le feu gagnait du terrain."}}},
+    {"M": {"text": {"S": "L'histoire de cette couronne est à peine croyable. En 1239, le roi Louis IX — si pieux que l'Église l'a canonisé — l'a rachetée à l'empereur ruiné de ce qui restait de l'Empire romain d'Orient à Constantinople. Le prix : plus de la moitié du revenu annuel de la France entière. Ensuite, Louis a fait bâtir la Sainte-Chapelle, l'un des joyaux de Paris, rien que pour l'abriter. Et quand la relique est arrivée, le roi a ôté ses chaussures et l'a accueillie pieds nus dans les rues de sa capitale."}}},
+    {"M": {"text": {"S": "Retour dans la cathédrale en feu. La Couronne reposait dans la salle du trésor, derrière des serrures électroniques. Fournier et les pompiers ont traversé des couloirs noyés de fumée pour l'atteindre. Mais la chaleur avait grillé tout le système. Un pompier a forcé le mécanisme à coups de masse. À l'intérieur : la relique dans son écrin de cristal — un cercle de joncs tressés retenus par un fil d'or, d'une fragilité presque absurde face au chaos autour."}}},
+    {"M": {"text": {"S": "Pas le temps pour les précautions. Des débris en feu tombaient d'en haut. Ils ont formé une chaîne humaine et se sont passé l'écrin de main en main — à travers la fumée, sous les braises, dans des couloirs baignés d'une lumière orange — jusqu'à l'air libre de la nuit parisienne. Quand la Couronne d'épines a atteint la rue, le père Fournier est tombé à genoux. Des pompiers aguerris — des gens dont le métier est de courir vers le danger — ont éclaté en sanglots."}}},
+    {"M": {"text": {"S": "Et voilà où l'histoire devient presque troublante. La Couronne a frôlé la destruction pendant deux millénaires, et à chaque fois, quelqu'un s'est interposé. Elle a survécu à la chute de Rome. Au sac de Constantinople en 1204, quand des croisés ont pillé une ville chrétienne. À la Révolution de 1789, quand un prêtre l'a cachée juste avant que les foules ne détruisent chaque symbole religieux. À deux guerres mondiales. Et en 2019, à Notre-Dame."}}},
+    {"M": {"text": {"S": "On connaît le proverbe : « Aide-toi, le ciel t'aidera. » Cette couronne le prouve — à un détail près : le ciel n'envoie pas de miracle, il envoie quelqu'un prêt à entrer dans le feu. Fournier a marché dans une cathédrale en flammes. Un prêtre a risqué la guillotine pendant la Terreur. Un roi a dépensé la moitié de son royaume. Peu importe ce qu'on croit : la Couronne d'épines survit parce qu'à chaque catastrophe, quelqu'un décide que ce fragile cercle d'épines vaut qu'on y risque sa vie."}}}
+  ]},
+  "icon": {"S": "👑"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paris Fire Brigade reports; Father Jean-Marc Fournier interviews; historical records of the Crown of Thorns"},
+  "characters": {"L": [
+    {"S": "Père Jean-Marc Fournier"},
+    {"S": "Pompiers de Paris"},
+    {"S": "Roi Louis IX (historique)"},
+    {"S": "Christ (théologique)"}
+  ]},
+  "lang": {"S": "fr"},
+  "era": {"S": "April 15, 2019 (relic dates to 1st century AD)"},
+  "readingTimeMinutes": {"N": "2"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771599631"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "2.35"}, "lat": {"N": "48.853"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "prophets_pilgrims"},
+  "storyId": {"S": "crown-of-thorns-rescue"}
+}

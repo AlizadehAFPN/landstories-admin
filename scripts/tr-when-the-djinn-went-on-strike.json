@@ -1,0 +1,44 @@
+{
+  "siteId": {"S": "baalbek"},
+  "langStoryId": {"S": "tr#when-the-djinn-went-on-strike"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "when-the-djinn-went-on-strike"},
+  "title": {"S": "Cinler Greve Gidince"},
+  "subtitle": {"S": "Kabil'den Süleyman'a, Baalbek'in imkânsız taşlarını kimin diktiğinin efsanesi — ve cinlerin yarıda bıraktığı dev kaya"},
+  "excerpt": {"S": "Lübnan'ın Bekaa Vadisi halkı harabelere Cinler Şehri derdi. Cinlerin uğradığı değil, yakınında yaşadığı değil — bizzat cinlerin inşa ettiği şehir. Ve tapınağın dokuz yüz metre ötesinde, bin tonluk bir taş, doğaüstü ustaların bile bir sınırı olduğunun kanıtı olarak hâlâ orada duruyor."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Lübnan'ın Bekaa Vadisi'ndeki insanlar Baalbek harabelerine bir isim takmıştı: Cinler Şehri. Cinlerin musallat olduğu bir yer değil, cinlerin yakınında yaşadığı bir yer hiç değil — doğrudan cinlerin inşa ettiği bir yer. Çünkü okul servisi büyüklüğünde taş blokların jilet hassasiyetiyle kesilip on üç kat yüksekliğe çıkarıldığını gördüğünüzde, \"birkaç adam yapmış\" açıklaması yetmiyor. Yetmesi mümkün değil."}}},
+    {"M": {"text": {"S": "En eski efsane ta başlangıca gidiyor. Kabil, kardeşi Habil'i öldürdükten sonra — insanlık tarihinin ilk cinayeti — günahının ağırlığıyla doğuya, Lübnan dağlarına sürüklendi. Orada bir kale inşa etti ve Tevrat'ın bahsettiği devasa yaratıklar olan Nefilim'lerle doldurdu. Bu devler öyle taşlar yonttu ki sıradan bir insan kaldırmayı bırakın, itmeyi bile hayal edemezdi. Sonra Tanrı Tufan'ı gönderdi. Devler boğuldu. Ama taşlar ayakta kaldı."}}},
+    {"M": {"text": {"S": "Sular çekilince harabeleri gören Nemrut'un gözleri parladı. Nuh'un torunlarından olan bu kral, göğe ok atan adamdı — Tanrı'ya meydan okumak için Babil Kulesi'ni dikmeye kalkan da oydu. Baalbek'teki devasa taşları görünce yeni bir ordu topladı, ama bu sefer insan değil dev. Çünkü o kayaları yerinden oynatmak için insan gücü yetmezdi. Nemrut için Baalbek, gücünün en büyük kanıtıydı."}}},
+    {"M": {"text": {"S": "Ama herkesin aklında kalan efsane Süleyman Peygamber'inki. Kuran'a göre Allah, Süleyman'a cinler üzerinde tam bir otorite vermişti — dumansız ateşten yaratılmış, görünmez ama dağları yerinden oynatacak güçte varlıklar. Süleyman'ın Mührü denen yüzükle istediği her cini emrine alabilirdi. Rivayete göre Baalbek'i Saba Melikesi Belkıs'a düğün hediyesi olarak yaptırdı. Cinler bin tonluk kayaları dağlardan söküp rüzgârla taşıdı. Bitmiş yapıyı gören herkes aynı şeyi düşündü: bunu insan eli yapmamış."}}},
+    {"M": {"text": {"S": "Tapınağın dokuz yüz metre ötesinde, bir taş ocağında yarı gömülü halde, cinlerin bile sınırı olduğunun kanıtı yatıyor. Adı Hacer el-Hibla — Hamile Kadın Taşı. Bin ton ağırlığında tek bir blok, asla yerine ulaşamamış. Efsaneye göre hamile cinler bu taşı taşımakla görevlendirilmişti. Tam yolun ortasında doğum sancıları bastırdı, taşı bırakıp gittiler ve bir daha dönmediler. Sabrın sonu selamettir derler — ama cinlerin sabrının sonu grevdi."}}},
+    {"M": {"text": {"S": "Bir başka rivayet daha var. Hamile bir kadın Baalbek halkına taşı hareket ettirmenin sırrını bildiğini söylemiş — ama aç karnına bu sırrı paylaşamazmış. Şehir kadını tam dokuz ay boyunca en güzel yemeklerle besledi. Bebek doğduğunda kadın itiraf etti: en ufak bir fikri yokmuş. Bütün bir şehri kandırmıştı, çünkü insanlar cevap o kadar çok istiyordu ki \"biliyorum\" diyen herkese inanmaya hazırdı."}}},
+    {"M": {"text": {"S": "Arkeologlar \"Romalılar yaptı\" diyor — milattan sonra birinci yüzyılda, makaralar, rampalar ve düzenli işgücüyle. Mantıklı cevap bu. Ama Roma fethinden Hristiyan yıkımına, Arap akınlarından Haçlı işgaline, 1401'de Timur'un yangınına kadar cin efsaneleri hiç ölmedi. Çünkü mesele mühendislik değildi. Öyle bir yapının karşısında durduğunuzda aklınız kendiliğinden doğaüstüne kayıyordu — bilim açıklayamadığı için değil, bilimin cevabı o büyüklüğü karşılamadığı için."}}},
+    {"M": {"text": {"S": "Baalbek'i cinler yaptı demek, insan emeğine hakaret değildi. Tam tersine, insan hayal gücünün verebileceği en büyük iltifattı — taşın yapmaması gereken şeyleri yaptığı bir yere bakıp \"bu dünya işi olamaz\" demenin yoluydu. İki bin yıl sonra, o taş ocağında iki dolu Boeing 747'den daha ağır bir kayanın yanında durduğunuzda anlıyorsunuz. Belki cinler gerçekti. Belki hâlâ mola veriyorlar."}}}
+  ]},
+  "moralOrLesson": {"S": "İnsanlar kendi eserlerinin büyüklüğüne inanamadığında, o eseri açıklamak için doğaüstü güçler icat eder. Ama bunu yaparken ortaya koydukları şey mühendisliğin sınırları değil, hayranlığın sınırsızlığıdır."},
+  "icon": {"S": "🧞"},
+  "tier": {"S": "S"},
+  "source": {"S": "Quran, Surah Saba 34:12-13; Benjamin of Tudela, The Itinerary (c. 1170); Idrisi, Nuzhat al-Mushtaq (c. 1154); Arabic manuscript found at Baalbek (date uncertain), cited in Penn Museum Journal; Hajjar, Youssef. La triade d'Héliopolis-Baalbek, 1977; Genesis 6:4 (Nephilim); Baalbek legends collected by the German Archaeological Institute"},
+  "characters": {"L": [
+    {"S": "King Solomon (Suleiman, lord of the djinn)"},
+    {"S": "The Queen of Sheba (Bilqis)"},
+    {"S": "Cain, son of Adam"},
+    {"S": "Nimrod the Giant-King"},
+    {"S": "The Pregnant Woman of the Legend"},
+    {"S": "Jinn bin Jann (progenitor of all djinn)"}
+  ]},
+  "era": {"S": "Legendary (pre-Islamic and Islamic traditions); 12th century CE (Benjamin of Tudela's account)"},
+  "readingTimeMinutes": {"N": "4"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773662278"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {
+    "lng": {"N": "36.2039"},
+    "lat": {"N": "34.0069"}
+  }},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "gods_monsters"}
+}

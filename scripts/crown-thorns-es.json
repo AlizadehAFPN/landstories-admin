@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "notre-dame-de-paris"},
+  "langStoryId": {"S": "es#crown-of-thorns-rescue"},
+  "title": {"S": "La corona que el fuego no pudo matar"},
+  "subtitle": {"S": "La cadena humana que rescató la reliquia más sagrada del cristianismo del incendio de Notre-Dame"},
+  "excerpt": {"S": "La noche del 15 de abril de 2019, Notre-Dame ardía. Pero dentro de la catedral en llamas, un capellán y un grupo de bomberos libraban una carrera contrarreloj que nadie veía desde fuera."},
+  "moralOrLesson": {"S": "Hay cosas que sobreviven no por suerte, sino porque en cada generación alguien decide que vale la pena entrar en el fuego por ellas."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "La noche del 15 de abril de 2019, el techo de Notre-Dame empezó a arder. El armazón de roble — ochocientos cincuenta años, construido con un bosque entero de árboles — se convirtió en una pared de fuego en menos de una hora. La aguja de la catedral se desplomó en directo mientras millones lloraban frente a sus pantallas. Pero dentro del edificio en llamas, se libraba una carrera contrarreloj que nadie podía ver."}}},
+    {"M": {"text": {"S": "El padre Jean-Marc Fournier, capellán de los bomberos de París, avanzaba con un equipo entre el humo y los escombros. No iban a rescatar personas. Iban a por algo que llevaba casi dos mil años bajo custodia humana sin interrupción: la Corona de Espinas, la reliquia que los cristianos creen que fue colocada sobre la cabeza de Jesús antes de su crucifixión. Estaba encerrada en la cámara del tesoro, y el fuego se acercaba."}}},
+    {"M": {"text": {"S": "La historia de esa corona es de película. En 1239, el rey Luis IX de Francia — tan devoto que la Iglesia acabó declarándolo santo — la compró al emperador arruinado del Imperio Romano de Oriente en Constantinopla. El precio: más de la mitad de los ingresos anuales de toda Francia. Después mandó construir la Sainte-Chapelle, una de las iglesias más bellas de París, solo para guardarla. Cuando llegó, el rey se quitó los zapatos y caminó descalzo por las calles para recibirla."}}},
+    {"M": {"text": {"S": "De vuelta al incendio: la corona estaba dentro de una cámara acorazada con cerraduras electrónicas. Fournier y los bomberos se abrieron paso por pasillos llenos de humo hasta llegar a la puerta. El calor había fundido el sistema eléctrico. Un bombero reventó el mecanismo a la fuerza. Dentro encontraron la reliquia en su vitrina de cristal: un círculo de juncos trenzados con hilo de oro, absurdamente frágil en medio de aquel infierno."}}},
+    {"M": {"text": {"S": "No había tiempo para delicadezas. Caían escombros en llamas desde arriba. Formaron una cadena humana y se pasaron la vitrina de mano en mano — entre el humo, esquivando brasas, por pasillos teñidos de naranja por el fuego — hasta sacarla al aire libre de la noche parisina. Cuando la Corona de Espinas estuvo a salvo, el padre Fournier cayó de rodillas. Bomberos curtidos en mil emergencias — gente que corre hacia el peligro por oficio — se echaron a llorar."}}},
+    {"M": {"text": {"S": "Y aquí la historia se vuelve casi sobrenatural. La Corona ha estado al borde de la destrucción durante dos milenios, y siempre alguien dio un paso al frente. Sobrevivió a la caída de Roma. Al saqueo de Constantinopla en 1204, cuando los cruzados arrasaron una ciudad cristiana en vez de marchar a Jerusalén. A la Revolución Francesa, cuando un sacerdote la escondió justo antes de que las turbas quemaran todo símbolo religioso. A dos guerras mundiales. Y en 2019, a Notre-Dame."}}},
+    {"M": {"text": {"S": "En España decimos que Dios aprieta pero no ahoga. Esta corona lo demuestra, con un matiz: Dios aprieta, pero siempre manda a alguien dispuesto a quemarse las manos. Fournier entró en una catedral ardiendo. Un sacerdote arriesgó la guillotina durante la Revolución. Un rey gastó medio reino. Da igual lo que creas: la Corona de Espinas sigue aquí porque en cada catástrofe, alguien decidió que ese frágil círculo de espinas merecía jugárselo todo."}}}
+  ]},
+  "icon": {"S": "👑"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paris Fire Brigade reports; Father Jean-Marc Fournier interviews; historical records of the Crown of Thorns"},
+  "characters": {"L": [
+    {"S": "Padre Jean-Marc Fournier"},
+    {"S": "Bomberos de París"},
+    {"S": "Rey Luis IX (histórico)"},
+    {"S": "Cristo (teológico)"}
+  ]},
+  "lang": {"S": "es"},
+  "era": {"S": "April 15, 2019 (relic dates to 1st century AD)"},
+  "readingTimeMinutes": {"N": "2"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771599631"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "2.35"}, "lat": {"N": "48.853"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "prophets_pilgrims"},
+  "storyId": {"S": "crown-of-thorns-rescue"}
+}

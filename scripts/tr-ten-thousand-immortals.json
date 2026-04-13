@@ -1,0 +1,41 @@
+{
+  "siteId": {"S": "persepolis"},
+  "langStoryId": {"S": "tr#ten-thousand-immortals"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "ten-thousand-immortals"},
+  "title": {"S": "On Bin Ölümsüz"},
+  "subtitle": {"S": "Hiç ölmeyen altın savaşçılar — ve tarihin en ünlü savaşını kazanan gece yürüyüşü"},
+  "excerpt": {"S": "Onlara \"Ölümsüzler\" deniyordu — yenilmez oldukları için değil, biri düştüğünde yerine hemen bir başkası geçtiği için. Sayıları her zaman on bindi. Her zaman tam, her zaman eksiksiz."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "On bin asker düşün. Hepsinin üstünde altın. Bilezikler, küpeler, mızrak uçlarında altın ağırlıklar — mecaz falan değil, gerçek altın. Mor ve safran rengi kaftanların altında pullu zırh gizli. Yayları iki yüz elli metreden adam devirecek güçte. İçlerinden en seçkin bin kişiye \"Elma Taşıyıcılar\" denirdi; mızraklarının ucunda altın narlar vardı. Gerisininki gümüş. Bunlar Pers Ölümsüzleri'ydi — daha savaş başlamadan düşmanı yıldırmak için tasarlanmış, antik dünyanın en korkulan birliği."}}},
+    {"M": {"text": {"S": "\"Ölümsüz\" adı dahice bir numaradan geliyordu. Biri öldüğünde — savaşta, hastalıktan, fark etmez — yerine geçecek adam çoktan hazırdı. Birlik her zaman tam on bin kişiydi. Her zaman. Karşıdan baktığında sanki hiçbiri ölmüyordu; biri düşüyor, yerine anında bir başkası dikiliyor. Ölüm sanki onlara işlemiyordu. Bazı tarihçiler adın bir çeviri hatası olduğunu söyler — Farsça'da \"yoldaşlar\" anlamına gelen kelime Yunanlıların kulağına \"ölümsüzler\" gibi gelmiş olabilir. Ama önemi yok, isim yapıştı."}}},
+    {"M": {"text": {"S": "En büyük sahne? Termopylai, MÖ 480 — \"300 Spartalı\" filminden bildiğini sandığın savaş. Filmin anlatmadıkları var. Pers Kralı Kserkes Yunanistan'ı istila ettiğinde, yedi bin Yunan askeri on beş metrelik dar kıyı geçidini tıkadı — \"Sıcak Kapılar\" denen yeri. Ölümsüzler saldırdı, geri püskürtüldü. Kötü asker oldukları için değil; dar geçit bütün avantajlarını sıfırlıyordu. Ok atacak alan yok, sayı üstünlüğü anlamsız. Sadece göğüs göğse, ağır zırhlara ve uzun mızraklara karşı."}}},
+    {"M": {"text": {"S": "Ama Ölümsüzler Termopylai'yi kaybetmedi. Kazandı. Bir Yunan hain vardı: Efialtes — ki Yunanca'da adı \"kabus\" demek. Bu adam Kserkes'e Yunan hatlarının arkasından dolaşan gizli bir dağ yolunu gösterdi. Kserkes on bin Ölümsüz'ün hepsini akşam karanlığında o patikaya sürdü. Meşe ormanlarının arasından, zifiri karanlıkta tırmandılar. Zirvedeki nöbetçilerin yanından sessizce geçtiler. Şafakta Yunanlıların arkasına indiler. Gün doğmadan neler doğar, derler ya — o gece, gün doğmadan bir zafer doğdu."}}},
+    {"M": {"text": {"S": "Ölümsüzlerin arkalarında belirdiğini gören Yunanlılar anladı: bitmişti. Sparta Kralı Leonidas müttefiklerinin çoğunu geri gönderdi, kendisi üç yüz Spartalı ve bin kadar gönüllüyle son direnişe geçti. Mızraklar kırılıncaya kadar mızrakla, sonra kılıçla, sonra çıplak elleriyle savaştılar. Ama sonuç, Ölümsüzler o gece yürüyüşünü tamamladığı an belli olmuştu. Batı üç yüz öleni hatırlıyor. Savaşı kazanan on bin kişiyi tarih defterinin kenarına bile yazmadı."}}},
+    {"M": {"text": {"S": "Persepolis'te — bugünkü İran'da, Pers İmparatorluğu'nun törensel başkentinde — Ölümsüzler devasa merdivenlerin duvarlarına kazınmış hâlde duruyor. Sıra sıra aynı savaşçı, mızraklar dimdik, bina duvarları boyunca uzanıyor. Tekrar eden aynı figür, aynı duruş. Bu tesadüf değil, mesajın ta kendisi. Bir asker etkileyicidir. On bin aynı asker bir mesajdır. Oraya bakan bir ordu görmez — bir makine görür."}}},
+    {"M": {"text": {"S": "O taş kabartmalar bugün İran kültürünün en tanınan sembollerinden biri. Paralarda, pullarda, takılarda, dünyanın dört bir yanındaki İranlı evlerinin duvarlarında. 300 filmi Ölümsüzleri yüzü olmayan canavarlar olarak gösterdiğinde İran öfkelendi. Bir film yüzünden değil — Batı yüzyıllardır Mısır'dan Hindistan'a yol inşa eden bir medeniyeti çizgi film kötüsüne çevirmişti. Ölümsüzler akılsız bir kalabalık değildi. Altın giyen, krallarına hizmet etmeyi en yüce onur sayan, gururlu savaşçılardı."}}}
+  ]},
+  "moralOrLesson": {"S": "Tarih Termopylai'yi üç yüz Spartalı'nın hikâyesi olarak hatırlıyor — ama asıl hikâye, gece karanlığında dağ ormanlarının arasından yürüyüp bir çıkmazı zafere çeviren on bin Persli'nin hikâyesi. Ölümsüzler Termopylai'yi kaybetmedi. Kazandı. Kaybettikleri tek şey anlatıydı."},
+  "characters": {"L": [
+    {"S": "Hydernes (Termopylai'deki Ölümsüzler'in komutanı)"},
+    {"S": "I. Kserkes (Büyük Kral)"},
+    {"S": "Spartalı Leonidas"},
+    {"S": "Efialtes (hain)"},
+    {"S": "Elma Taşıyıcılar (Meloforoi)"}
+  ]},
+  "icon": {"S": "🛡️"},
+  "tier": {"S": "A"},
+  "source": {"S": "Herodotus, Histories VII.41, VII.61, VII.83, VII.211, VII.218; Arrian, Anabasis Alexandri 3.11.5; Shahbazi, A. Sh., 'Army i. Pre-Islamic Iran,' Encyclopaedia Iranica; Briant, Pierre, From Cyrus to Alexander (2002); Sekunda, Nicholas, The Persian Army 560-330 BC (Osprey, 1992); Root, Margaret Cool, The King and Kingship in Achaemenid Art (1979)"},
+  "isFeatured": {"BOOL": true},
+  "era": {"S": "MÖ 550–330; Termopylai Savaşı, MÖ 480"},
+  "readingTimeMinutes": {"N": "4"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773581910"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "52.8914"}, "lat": {"N": "29.9342"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "crowns_conquests"},
+  "storyId": {"S": "ten-thousand-immortals"}
+}

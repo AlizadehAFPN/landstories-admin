@@ -1,0 +1,42 @@
+{
+  "siteId": {"S": "persepolis"},
+  "langStoryId": {"S": "tr#women-who-ran-the-empire"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "women-who-ran-the-empire"},
+  "title": {"S": "İmparatorluğu Yöneten Kadınlar"},
+  "subtitle": {"S": "Otuz bin kil tablet, hiçbir Yunan tarihçisinin yazmadığı gerçeği ortaya çıkardı — kadınlara eşit ücret ödeyen, doğum izni veren ve kraliçelerin tahtı şekillendirdiği bir imparatorluk"},
+  "excerpt": {"S": "Yirmi üç yüzyıl boyunca Persepolis'in duvarlarına mühürlü kalan otuz bin kil tablet, hiçbir Yunan tarihçisinin yazmaya tenezzül etmediği şeyi ortaya koydu: dünyanın en büyük imparatorluğu kadınlara erkeklerle aynı ücreti ödüyor, yeni anneleri destekliyor ve en tepede, kimin tahta oturacağına kraliçeler karar veriyordu."},
+  "moralOrLesson": {"S": "Yirmi dört asır boyunca Batı dünyası Pers İmparatorluğu'nu kadınların söz hakkı olmadığı sıradan bir krallık sandı. Sonra otuz bin kil tablet bu efsaneyi yerle bir etti. Tabletler, kadınların eşit ücret aldığı, doğum desteği gördüğü, devasa mülkleri yönettiği ve kimin tahta oturacağına karar verdiği bir imparatorluğu gösteriyordu. Kanıt hep oradaydı — bir duvara mühürlenmiş, ateşle pişmiş ve birinin gelip okumasını bekliyordu."},
+  "icon": {"S": "👑"},
+  "tier": {"S": "A"},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "1930'larda bir grup arkeolog İran'daki Persepolis harabelerinde bir duvarı kırdı. İçinden otuz bin kil tablet çıktı. Muhasebe kayıtlarıydı — kim ne kadar tahıl almış, kaç işçi nerede çalışmış. Sıkıcı şeyler. Ta ki biri gerçekten okuyuncaya kadar. O makbuzların arasından yeryüzündeki en büyük imparatorluğun kadınlara erkeklerle aynı ücreti ödediği ortaya çıktı. Yirmi beş asır önce. Dünyanın geri kalanı bu konuyu konuşmaya başlamadan iki bin küsur yıl önce."}}},
+    {"M": {"text": {"S": "Tabletler Kral Darius dönemine ait, milattan önce 500 civarı. On beş yıllık kayıtlar. İşçi listesi uzayıp gidiyor — Persler, Babilliler, Mısırlılar, Yunanlılar, Hintliler. Her ismin yanında meslek ve ücret yazılı. Yüzlercesi kadın. Köle değil. Hizmetçi değil. Maaşlı, unvanlı, yönetici kadınlar. Aynı işi yapan kadın ve erkek aynı ücreti alıyordu. Tek bir kayıtta değil — on beş yıl boyunca, binlerce belgede. Bu bir lütuf değildi. Devlet politikasıydı."}}},
+    {"M": {"text": {"S": "Daha da çarpıcı olanı şu: yeni doğum yapmış kadınlara ekstra ödeme yapılıyordu. Devlet destekli doğum izni. Milattan önce beşinci yüzyılda. Kadınların mülk edinemediği, erkeksiz sokağa çıkamadığı Atina'da değil. Kadınların ömür boyu çocuk muamelesi gördüğü Roma'da değil. \"Barbar\" diye küçümsenen Pers İmparatorluğu'nda. Yunanlıların vahşi dediği uygarlık, yeni anneleri koruyan bir sistem kurmuştu — Batı'nın buna yetişmesi iki bin yıldan fazla sürecekti."}}},
+    {"M": {"text": {"S": "Sonra bir de tepedekiler var. İrdabama adında bir kadın düzinelerce tablette karşımıza çıkıyor. Devasa çiftlikleri yönetiyor, yüzlerce işçiye emir veriyor, sevkiyatları kendi mührüyle onaylıyor — mührün üstünde tahtında oturan bir kadın figürü var. Tahıl, şarap, hayvan ticareti yapıyor; ölçeği valilerle yarışıyor. Tabletlerin hiçbirinde kararlarını onaylayan bir koca ya da baba yok. Kraldan başka kimseye hesap vermiyordu."}}},
+    {"M": {"text": {"S": "Ama asıl güç oyuncusu Atossa'ydı. Babası Büyük Kiros — Pers İmparatorluğu'nu yoktan var eden adam. Atossa üç kralla evlendi, üçünün de yanında tahtın gölgesinde değil, tam ortasında durdu. Yunanlı tarihçi Herodotos bile \"sarayda bütün güç ondaydı\" diye yazmak zorunda kaldı. Veliaht seçimi geldiğinde Atossa hamlesini yaptı: oğlu Kserkses'in üvey ağabeylerini geçip tahta çıkması gerektiğini savundu. Kazandı. Dünyanın en büyük imparatorluğunda kimin hükümdar olacağına bir kadın karar verdi."}}},
+    {"M": {"text": {"S": "Yüzyıllar boyunca Batılı tarihçiler Persepolis'e baktılar ve görmek istediklerini gördüler — haremler, örtülü kadınlar, geri kalmış bir doğu imparatorluğu. Bir binayı hiçbir kanıt olmadan \"Kserkses'in Haremi\" diye adlandırdılar. Ama tabletler bambaşka bir tablo çiziyor. Kraliyet kadınları eyaletler arasında özgürce seyahat ediyor, ziyafetler veriyor, mülkleri yönetiyor, ciddi servetler kontrol ediyordu. Duvarların arkasına kapatılmış değillerdi. O duvarların içinden imparatorluğu yönetiyorlardı."}}},
+    {"M": {"text": {"S": "Derler ki yalancının mumu yatsıya kadar yanar. Yunan tarihçilerinin mumu yirmi üç asır yandı — ama sonunda söndü. Gerçek, İskender'in Persepolis'i ateşe verdiği gece duvara mühürlenmişti. O yangın tabletleri yok etmek yerine pişirip sertleştirdi. Sonunda Chicago'ya ulaştılar. Richard Hallock adında sessiz bir akademisyen onlarca yılını bu tahıl makbuzlarını çözmeye adadı. Ortaya çıkan, kadın hakları tarihinin en devrimci belgeleriydi. Büyük bildiriler değildi. Maaş bordrosuydu."}}}
+  ]},
+  "source": {"S": "Hallock, R.T., Persepolis Fortification Tablets (1969); Henkelman, Wouter, The Other Gods Who Are (2008); Brosius, Maria, Women in Ancient Persia (1996); Koch, Heidemarie, Frauen und Schlangen (2002); Llewellyn-Jones, Lloyd, King and Court in Ancient Persia (2013); Herodotus, Histories III.133-134, VII.2-3; Aeschylus, The Persians (472 BCE); Briant, Pierre, From Cyrus to Alexander (2002)"},
+  "characters": {"L": [
+    {"S": "Atossa (daughter of Cyrus, kingmaker)"},
+    {"S": "Irdabama (wealthy estate owner)"},
+    {"S": "Artystone (Darius's favorite wife)"},
+    {"S": "The women supervisors of the Fortification Tablets"},
+    {"S": "Richard Hallock (decipherer of the tablets)"}
+  ]},
+  "era": {"S": "509–494 BCE (Fortification Tablets); broader Achaemenid period 550–330 BCE"},
+  "readingTimeMinutes": {"N": "4"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773602093"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {
+    "lng": {"N": "52.8914"},
+    "lat": {"N": "29.9342"}
+  }},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "lost_found"}
+}

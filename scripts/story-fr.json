@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "sigiriya"},
+  "langStoryId": {"S": "fr#cloud-maidens"},
+  "storyId": {"S": "cloud-maidens"},
+  "lang": {"S": "fr"},
+  "title": {"S": "Les Demoiselles des Nuages"},
+  "subtitle": {"S": "Cinq cents femmes célestes couvraient une falaise dans la jungle du Sri Lanka — seules dix-neuf ont survécu, et après quinze siècles personne ne sait qui elles sont"},
+  "excerpt": {"S": "Au Sri Lanka, un rocher de deux cents mètres surgit de la jungle comme un poing de pierre. À mi-hauteur, dix-neuf femmes vous regardent depuis la paroi. Elles sont là depuis environ mille cinq cents ans. Personne ne sait qui elles sont."},
+  "moralOrLesson": {"S": "Le plus grand art ne répond pas aux questions — il les pose. Quinze siècles de visiteurs se sont plantés devant ces femmes et y ont projeté leurs propres désirs, leur propre chagrin, leur propre foi. Et les Demoiselles des Nuages ont rendu le regard avec le même demi-sourire serein, gardant leur secret, survivant à chaque théorie et à chaque empire."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Au Sri Lanka, un rocher de deux cents mètres surgit de la jungle comme un poing de pierre. À mi-hauteur, nichées dans une alcôve à l'abri du vent, dix-neuf femmes vous regardent depuis la paroi. Elles sont là depuis environ mille cinq cents ans. Peintes à même la roche : peau dorée, buste nu, couvertes de perles et d'or. Des nuages peints leur enveloppent les hanches et cachent tout le reste. Certaines portent des fleurs, d'autres des offrandes. Toutes affichent le même demi-sourire — à la fois accueillant et distant. Personne ne sait qui elles sont."}}},
+    {"M": {"text": {"S": "Et voilà ce qui rend l'histoire vertigineuse : ces dix-neuf sont les rescapées. La fresque d'origine couvrait toute la face ouest du rocher — plus de cinq mille mètres carrés — avec plus de cinq cents figures. Imaginez des centaines de femmes dorées flottant dans des nuages peints, depuis les jardins en contrebas jusqu'aux portes de la forteresse. C'est l'œuvre du roi Kashyapa Iᵉʳ, qui arracha le trône à son propre père vers 477 et transforma ce rocher en capitale royale. Cinq cents femmes sur une falaise. Aujourd'hui, il en reste dix-neuf."}}},
+    {"M": {"text": {"S": "Qui sont-elles ? Les experts se disputent depuis un siècle. Première hypothèse : des femmes réelles de la cour de Kashyapa — reines, favorites, servantes — en route vers un temple avec des plateaux d'offrandes. Ça explique les plateaux, mais pas les nuages. Pourquoi des femmes en chair et en os flotteraient-elles dans le ciel ? Deuxième hypothèse : des êtres célestes de la mythologie hindoue et bouddhiste qui vivent dans les nuages et répandent des fleurs sur la terre. Celle-là colle mieux. C'est de là que vient leur nom célèbre : les Demoiselles des Nuages."}}},
+    {"M": {"text": {"S": "On dit jamais deux sans trois. Mais à Sigiriya, la troisième théorie n'a pas résolu l'énigme — elle l'a rendue plus belle. Elle vient de Senarath Paranavitana, le plus grand archéologue sri-lankais, après des décennies de recherche. Selon lui, ce ne sont ni des femmes ni des déesses : c'est la météo. Les figures à peau sombre sont des nuages d'orage. Celles à peau claire, des éclairs. Ensemble, elles forment la mousson tropicale qui enveloppe le rocher chaque saison des pluies. Kashyapa n'a pas juste bâti une forteresse sur ce rocher. Il a peint son propre ciel."}}},
+    {"M": {"text": {"S": "Les peintures ont survécu à mille cinq cents ans de moussons tropicales. Les bâtisseurs d'origine avaient creusé des rigoles dans la roche pour détourner l'eau de pluie — elles fonctionnent encore aujourd'hui. Mais la nature n'a pas été la pire menace. En 1967, des vandales ont attaqué les fresques : ils ont arraché des morceaux de deux figures et barbouillé de peinture verte quinze autres. Les dégâts étaient irréparables. Sur plus de cinq cents figures d'origine, dix-neuf tiennent encore dans leur alcôve, les couleurs toujours chaudes après quinze siècles."}}},
+    {"M": {"text": {"S": "Ce qui fascine les visiteurs, c'est ça : après toutes les hypothèses, personne ne peut prouver qui sont ces femmes. Elles flottent dans leurs nuages peints, chargées d'or, et vous regardent avec ce demi-sourire qui ne lâche rien. Les archéologues ont trouvé de petites copies en argile au pied du rocher — des souvenirs vendus aux visiteurs dès le VIᵉ siècle. Les gens montent sur ce rocher depuis mille cinq cents ans et redescendent avec plus de questions que de réponses. Les Demoiselles des Nuages gardent leur secret. Elles l'ont toujours gardé."}}}
+  ]},
+  "icon": {"S": "🎨"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paranavitana, Senarath. The Significance of the Paintings of Sigiriya, Artibus Asiae, 1950; Coomaraswamy, Ananda K. Mediaeval Sinhalese Art, 1908; Bell, H.C.P. Report on the Sigiriya Excavations, Archaeological Survey of Ceylon, 1904; Bandaranayake, Senake. Sigiriya: City, Palace and Royal Gardens, 2005; UNESCO World Heritage File 202"},
+  "characters": {"L": [
+    {"S": "King Kashyapa I (patron of the frescoes)"},
+    {"S": "The unnamed master painter and his workshop"},
+    {"S": "Dr. Ananda Coomaraswamy (art historian, apsara theory)"},
+    {"S": "Dr. Senarath Paranavitana (archaeologist, cloud-lightning theory)"},
+    {"S": "H.C.P. Bell (British archaeologist who documented the site)"}
+  ]},
+  "era": {"S": "c. 480 CE (painted); 1875 (European rediscovery); 1967 (vandalism)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771571260"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "80.7603"}, "lat": {"N": "7.957"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "riddles_past"}
+}

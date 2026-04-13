@@ -1,0 +1,40 @@
+{
+  "siteId": {"S": "baalbek"},
+  "langStoryId": {"S": "tr#stones-that-should-not-exist"},
+  "lang": {"S": "tr"},
+  "title": {"S": "Var Olmaması Gereken Taşlar"},
+  "subtitle": {"S": "Yüzlerce yıl açıklanamayan sekiz yüz tonluk yapı taşları — ve insanlık tarihinin en büyük yontulmuş taşını hâlâ saklayan taş ocağı"},
+  "excerpt": {"S": "Lübnan'da bir duvarın içinde üç taş. Her biri sekiz yüz ton. Aralarına jilet bile girmiyor. Harç yok. Çimento yok. Yüzyıllarca da bir açıklama yoktu."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Lübnan'ın Baalbek şehrinde bir duvar var. İçinde yan yana oturan üç taş; her biri sekiz yüz ton. Roma İmparatorluğu'nun yaptığı en büyük tapınağın — Jüpiter Tapınağı'nın — temelini oluşturuyorlar. Aralarına jilet bile girmiyor. Harç yok. Çimento yok. Kireçtaşı kireçtaşının üstünde duruyor, yerçekimi ve adını hiçbir yere yazmamış mühendislerin ustalığıyla."}}},
+    {"M": {"text": {"S": "Yüzlerce yıl boyunca kimse bu taşların oraya nasıl geldiğini açıklayamadı. Gizem o kadar büyüktü ki mantıklı her cevabı yuttu. Arap efsanelerinden birinde şehri Âdem'in oğlu Kabil, devlerin yardımıyla kurmuştu. İslam geleneğinde Süleyman Peygamber'in emrindeki cinler taşımıştı. 1800'lerde bir İngiliz kaşif, tarih öncesi fillerin vinç olarak kullanıldığını gayet ciddi bir şekilde öne sürdü."}}},
+    {"M": {"text": {"S": "Mark Twain 1867'de Baalbek'e geldi, duvara baktı ve şöyle yazdı: \"Bu devasa bloklar taş ocağından nasıl taşınmış, kimsenin çözemediği bir muamma.\" Abartmıyordu. Taş ocağı yaklaşık sekiz yüz metre ötede. Sekiz yüz tonluk bloklar iki bin yıl önce bir şekilde bu mesafeyi kat etmiş — motor yok, çelik yok, bu ağırlığı taşıyacak tekerlek yok. Ama taşlar orada öylece duruyor."}}},
+    {"M": {"text": {"S": "Gerçek cevap 1977'de geldi. Fransız mimar Jean-Pierre Adam hesabını yaptı. On altı döner çıkrık, her birini otuz iki kişi çeviriyordu — kenevir halatlar ve kasnaklar sistemiyle. Toplam beş yüz on iki işçi. Taş ocağıyla tapınak arasındaki zemin hafif yokuş aşağı — yerçekimi yardım ediyordu. O inanılmaz sıkı derzler mi? Romalıların yalnızca taşların kenarlarını dümdüz yonttuğu bir teknik. Uzaylı yok. Dev yok. Roma, Roma'nın işini yapıyordu."}}},
+    {"M": {"text": {"S": "Ama taş ocağı daha büyük bir sır saklıyordu. İki bin yıldır yarı gömülü halde duran devasa bir blok vardı: Hamile Kadın Taşı. Bin ton — duvardaki üç taştan bile ağır. Ana kayadan neredeyse tamamen kesilmişti ama asla yerinden oynatılmadı. Belki yontulurken çatlak oluştu. Belki veba geldi. Belki para bitti. Kimse bilmiyor."}}},
+    {"M": {"text": {"S": "İsmi bir efsaneden geliyor. Hamile bir kadın Baalbek halkına demiş ki: \"Bu taşı nasıl hareket ettireceğimi biliyorum.\" Tek şartı, doğurana kadar onu beslemeleri. Kabul etmişler. Kadın dokuz ay boyunca krallar gibi yemiş içmiş. Bebek doğduğunda itiraf etmiş: en ufak bir fikri yokmuş. Derler ki sabır taşı bile çatlar — ama burada çatlayan taş değil, halkın sabrıydı. Folklor tarihinin belki de en büyük blöfü."}}},
+    {"M": {"text": {"S": "Sonra 2014'te her şey değişti. Arkeolog Dr. Jeanine Abdul Massih'in ekibi Hamile Kadın Taşı'nın altını kazarken hiç beklemedikleri bir şeye rastladı — üçüncü bir taş. İnsanoğlunun o güne kadar yonttuğu hiçbir şeye benzemeyen boyutlarda. Yaklaşık yirmi metre uzunluğunda. Altı metre genişliğinde. Beş metreden fazla yüksekliğinde. Bin altı yüz elli ton. Dört dolu Boeing 747'den ağır. İnsanlık tarihinin en büyük yontulmuş taşı, Sezarlar çağından beri toprağın altında gizleniyordu."}}},
+    {"M": {"text": {"S": "Taşın dibine bile ulaşılamamıştı. Abdul Massih taş ocağında durup şöyle dedi: \"Tam boyutlarını bilmiyoruz.\" İki bin yıl önce Romalı mühendisler bu kayaya bakıp \"Bunu kullanabiliriz\" diye düşündü. Şekil verdiler, yüzeylerini düzelttiler, taşımaya hazırladılar — ve sonra sonsuza dek arkalarını dönüp gittiler. Geride bıraktıkları bir başarısızlık anıtı değil. İnsan elinin kayadan yonttuğu en büyük şeyin, daha da büyük bir şey için düşünüldüğünün kanıtı."}}}
+  ]},
+  "moralOrLesson": {"S": "Hırsın gerçek ölçüsü bitirdiklerin değil, başlamaya cesaret ettiklerindir. Romalılar tarihte yontulmuş en büyük taşı yarım bırakıp gitti — iki bin yıl sonra hâlâ neyin peşinde olduklarını merak ediyoruz."},
+  "characters": {"L": [
+    {"S": "Jean-Pierre Adam (Fransız mimar-arkeolog)"},
+    {"S": "Dr. Jeanine Abdul Massih (Lübnan Üniversitesi arkeologu)"},
+    {"S": "Colonia Heliopolis'in Romalı mühendisleri"},
+    {"S": "Efsanedeki Hamile Kadın"},
+    {"S": "Mark Twain (Amerikalı yazar, 1867 ziyareti)"}
+  ]},
+  "icon": {"S": "🪨"},
+  "tier": {"S": "S"},
+  "source": {"S": "Adam, Jean-Pierre. 'A propos du trilithon de Baalbek,' Syria Vol. 54, 1977; Abdul Massih, Jeanine & German Archaeological Institute, 2014 excavation reports; Kalayan, Haroutune. 'The Engraved Drawing on the Trilithon,' 1969; Twain, Mark. The Innocents Abroad, 1869; Archaeology Magazine, March/April 2015; Guinness World Records, Largest Megalith from Antiquity"},
+  "era": {"S": "MÖ ~27 – MS 60 (Trilithon inşaatı); 2014 (tarihteki en büyük yontulmuş taşın keşfi)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773538720"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "36.2039"}, "lat": {"N": "34.0069"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "mysteries_enigmas"},
+  "storyId": {"S": "stones-that-should-not-exist"}
+}

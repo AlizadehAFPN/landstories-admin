@@ -1,0 +1,69 @@
+{
+  "siteId": {"S": "acropolis-athens"},
+  "langStoryId": {"S": "fr#caryatids"},
+  "lang": {"S": "fr"},
+  "storyId": {"S": "caryatids"},
+  "title": {"S": "Les Cariatides — Celles qui portent le ciel"},
+  "subtitle": {"S": "Les femmes de Caryes changées en pierre"},
+  "excerpt": {"S": "Six femmes se tiennent debout sous un porche d'Athènes depuis deux mille cinq cents ans. Pas des statues posées sur un socle — des colonnes. Leurs têtes soutiennent le toit. Leurs corps font office de structure."},
+  "paragraphs": {
+    "L": [
+      {
+        "M": {
+          "text": {"S": "Six femmes se tiennent debout sous un porche d'Athènes depuis deux mille cinq cents ans. Pas des statues posées sur un socle — des colonnes. Leurs têtes soutiennent le toit. Leurs corps font office de structure. Ce sont les Cariatides de l'Érechthéion, et aucune sculpture au monde n'a jamais eu à faire le travail d'un architecte. Comment elles se sont retrouvées là, c'est une histoire de guerre, de trahison, et de honte transformée en beauté."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "La version la plus connue remonte à 480 avant notre ère. L'armée perse envahit la Grèce, et une petite ville du sud du Péloponnèse, Caryes, choisit le mauvais camp : elle s'allie aux Perses. Quand la Grèce l'emporte, la vengeance est sans pitié. Les hommes sont tués, les femmes réduites en esclavage. Mais ça ne suffit pas. Des sculpteurs athéniens gravent ces femmes dans la pierre — condamnées à porter un édifice pour l'éternité. C'est du moins ce que raconte Vitruve, l'architecte romain, quatre siècles plus tard."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Mais il existe une autre théorie, presque à l'opposé. Certains historiens pensent que les Cariatides représentent les Arréphores — des adolescentes issues des familles les plus puissantes d'Athènes, choisies pour vivre un an sur l'Acropole au service de la déesse Athéna. Leur mission : tisser un voile sacré présenté lors de la plus grande fête religieuse de la cité. Regardez comment elles se tiennent : droites, sereines, un pied légèrement en avant, comme dans une procession. C'est de la dévotion, pas un châtiment."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Quelle que soit la vérité, celui qui les a conçues a réussi un pari que personne n'avait tenté. Il a remplacé des colonnes de pierre lisse par des silhouettes humaines — et ça tient. Chaque femme est légèrement différente : une tête inclinée, une hanche décalée, des plis uniques dans la tunique. Mais leurs tresses épaisses ne sont pas qu'un détail esthétique — elles renforcent le cou là où le poids repose. Le drapé imite les rainures d'une colonne classique. Elles font un vrai travail de structure sans avoir l'air de forcer."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Aujourd'hui, cinq des six originales sont à l'abri au Musée de l'Acropole, loin de la pollution athénienne. La sixième a été emportée en 1803 par Lord Elgin, un diplomate britannique qui a expédié des pans entiers de l'Acropole vers l'Angleterre. Elle est au British Museum depuis — séparée de ses sœurs par deux mille cinq cents kilomètres et deux siècles de querelle diplomatique. Sur l'Érechthéion, des copies occupent leur place. L'espace vide où se tenait la sœur absente est peut-être la plus élégante pancarte de protestation au monde."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Vingt-cinq siècles de guerres, d'empires, de christianisme, de domination ottomane et de pollution — et elles sont toujours debout. On les a sculptées pour rappeler une trahison, mais quelque part en chemin, le sens s'est retourné. Personne ne vient les voir en pensant à la honte de Caryes. On vient parce que six femmes de pierre ont l'air plus vivantes que la plupart des êtres de chair. On dit qu'à quelque chose malheur est bon — les Cariatides ont prouvé que le malheur, parfois, crée ce qu'il y a de plus beau au monde."}
+        }
+      }
+    ]
+  },
+  "moralOrLesson": {"S": "La beauté a le pouvoir de transformer la punition en grâce. Conçues pour rappeler une humiliation, les Cariatides sont devenues l'incarnation même de la force et de l'élégance."},
+  "icon": {"S": "👩"},
+  "tier": {"S": "A"},
+  "source": {"S": "Vitruvius's De Architectura, Pausanias's Description of Greece, modern archaeological analysis"},
+  "characters": {
+    "L": [
+      {"S": "Les Six Cariatides"},
+      {"S": "Les femmes de Caryes"},
+      {"S": "Alcamène (sculpteur possible)"}
+    ]
+  },
+  "era": {"S": "421-406 BCE (Erechtheion construction)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771530556"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {
+    "M": {
+      "lng": {"N": "23.7263"},
+      "lat": {"N": "37.9722"}
+    }
+  },
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "lost_found"}
+}

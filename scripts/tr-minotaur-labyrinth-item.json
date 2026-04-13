@@ -1,0 +1,40 @@
+{
+  "siteId": {"S": "knossos"},
+  "langStoryId": {"S": "tr#minotaur-labyrinth"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "minotaur-labyrinth"},
+  "title": {"S": "Labirentin Canavarı"},
+  "subtitle": {"S": "Bozulan bir sözün karanlık bedeli"},
+  "excerpt": {"S": "Minos Girit tahtına oturmak istediğinde hırsı tek başına yetmezdi — tanrıların desteğini kanıtlaması gerekiyordu."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Minos Girit tahtını istiyordu ama istemenin tek başına yetmeyeceğini biliyordu. Halkı ikna etmek için tanrıların onayına ihtiyacı vardı. Denizlerin tanrısı Poseidon'a döndü ve bir anlaşma teklif etti: bana bir işaret gönder, ne gönderirsen onu sana kurban edeceğim. Poseidon cevap verdi. Dalgaların arasından bembeyaz bir boğa yürüyerek çıktı — o kadar kusursuz, o kadar görkemli ki gerçeğe benzemiyordu. Girit halkı o boğayı denizden çıkarken gördüğünde mesele kapandı: bu adam tanrıların seçtiği kraldı."}}},
+    {"M": {"text": {"S": "Ama Minos o boğaya bir baktı, bir daha baktı... ve kesemedi. Hayvan o kadar güzeldi ki bıçak tutan el titredi. Aklına parlak bir fikir geldi: Poseidon'a sıradan bir boğa kurban eder, ilahi olanı kendine saklardı. Nasıl olsa tanrı fark etmez, diye düşündü. Hayatının en büyük hatasıydı bu. Poseidon'un cezası fırtına ya da veba olarak gelmedi. Çok daha kişisel geldi: Minos'un karısı Kraliçe Pasifae'nin aklını başından aldı ve onu bizzat o beyaz boğaya karşı dayanılmaz bir takıntıyla lanetledi."}}},
+    {"M": {"text": {"S": "Pasifae çaresizlik içinde sarayda yaşayan tek kişiye sığındı: Atinalı dahi mucit Daedalus'a. Daedalus'un onun için yaptığı şey insanın midesini bulandırır — gerçek deriyle kaplı, içi boş tahta bir inek heykeli. O kadar gerçekçiydi ki boğayı bile kandırdı. O buluşmadan olmaması gereken bir şey doğdu: insan bedenli, boğa başlı bir yaratık. Adını Asterion koydular — \"yıldızlı olan\" demekti. Canavarların bile güzel isimleri olabiliyor bazen."}}},
+    {"M": {"text": {"S": "Pasifae onu kendi çocuğu gibi büyütmeye çalıştı. Bir süre neredeyse işe yaradı. Ama Minotauros büyüdükçe açlığı da büyüdü — ve bu açlık ekmekle, etle doyacak cinsten değildi. İnsan eti istiyordu. İlk öldürmeler başladığında Minos kendi ellerinin eserinin karşısında donup kaldı. Yaratığı yok edemezdi — karısının oğluydu. Ama serbest de bırakamazdı. Yine Daedalus'a döndü ve ona ömrünün en zor işini verdi: kimsenin asla çıkamayacağı bir kafes yap."}}},
+    {"M": {"text": {"S": "Daedalus kafes yapmadı. Daha beter bir şey yaptı. Knossos Sarayı'nın altına Labirent'i inşa etti — öyle çapraşık, öyle dolambaçlı bir yapı ki içine giren bir daha asla çıkamazdı. Koridorlar kendi üstüne kıvrılıyordu. Merdivenler karanlığa iniyor, sonra tekrar yukarı çıkıyordu. Her köşede çıkmaz sokak. Ve tam ortada, yapayalnız, zifiri karanlıkta, Minotauros volta atıyor, kuduruyordu — ve beslenmeyi bekliyordu."}}},
+    {"M": {"text": {"S": "Yem Atina'dan geldi. Minos'un oğlu Androgeos Atina'da öldürülünce — siyasi oyunlara kurban gitmiş, büyük ihtimalle kıskançlıktan katledilmişti — Minos donanmasıyla Atina'nın üstüne yürüdü ve şehri dize getirdi. Barış şartları kan dondurucuydu: her dokuz yılda bir, Atina yedi genç erkek ve yedi genç kızı Labirent'e gönderecekti. Silahsız. Haritasız. Çıkış yolsuz. Karanlıkta sadece Minotauros vardı."}}},
+    {"M": {"text": {"S": "Nesiller boyunca Atinalı anne babalar en karanlık kabusla yaşadı: çocuklarının o on dört kişiden biri olma ihtimali. Hepsi, uzak bir adadaki bir kralın tanrıya verdiği sözden dönmesi yüzünden. Derler ki tanrının değirmeni yavaş öğütür ama ince öğütür — Poseidon'unki öyle ince öğüttü ki Girit'in şerefini un ufak etti. Knossos'un kalıntıları hâlâ ayakta: yüzlerce oda, dolambaçlı koridorlar, çıkmaz yollar. Üç bin yıldır aynı şeyi hatırlatıyor: tanrılara söz verdin mi, tutarsın."}}}
+  ]},
+  "moralOrLesson": {"S": "Verdiğin sözden kaçamazsın. Minos bir tanrıyı kandırmaya çalıştı ve ortaya çıkan canavar, hem krallığının şerefini hem de başkalarının çocuklarını yuttu."},
+  "characters": {"L": [
+    {"S": "Minotauros (Asterion)"},
+    {"S": "Kral Minos"},
+    {"S": "Kraliçe Pasifae"},
+    {"S": "Poseidon"},
+    {"S": "Daedalus"},
+    {"S": "Beyaz Boğa"}
+  ]},
+  "coordinates": {"M": {"lng": {"N": "25.1631"}, "lat": {"N": "35.2981"}}},
+  "disabled": {"BOOL": false},
+  "era": {"S": "Mitolojik Çağ (Minos dönemi)"},
+  "hasAudio": {"BOOL": false},
+  "icon": {"S": "🐂"},
+  "image": {"S": ""},
+  "isFree": {"BOOL": true},
+  "readingTimeMinutes": {"N": "3"},
+  "source": {"S": "Apollodorus'un Bibliotheca'sı, Ovidius'un Dönüşümler'i, Plutarkhos'un Theseus'un Hayatı"},
+  "storyCategory": {"S": "ghosts_curses"},
+  "thumbnail": {"S": ""},
+  "tier": {"S": "S"},
+  "updatedAt": {"N": "1772157510"}
+}

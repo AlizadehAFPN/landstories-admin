@@ -1,0 +1,40 @@
+{
+  "siteId": {"S": "sigiriya"},
+  "langStoryId": {"S": "ko#lion-gate-sky-fortress"},
+  "lang": {"S": "ko"},
+  "storyId": {"S": "lion-gate-sky-fortress"},
+  "title": {"S": "사자의 문"},
+  "subtitle": {"S": "아버지를 죽인 왕이 절벽에 거대한 사자를 세우고, 모든 방문자에게 그 입을 지나가게 했다"},
+  "excerpt": {"S": "하늘 위 궁전에 오르려면, 먼저 절벽에 세워진 거대한 사자의 벌린 입 안으로 걸어 들어가야 했어요. 목구멍을 지나, 몸을 통과해서."},
+  "moralOrLesson": {"S": "시기리야를 지은 사람들은 현대 건축가 대부분이 잊은 걸 알고 있었어요 — 건물은 단순한 구조물이 아니라 경험이라는 것. 돌과 공간과 공포와 경이로 이야기를 들려주는 것. 사자의 문은 문이 아니었어요. 변신이었죠. 인간으로 들어가서, 짐승의 몸을 통과하고, 신의 영역으로 나오는 것."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "상상해 보세요. 5세기 스리랑카, 정글 한가운데 솟아오른 200미터짜리 화강암 절벽을 오르고 있어요. 중간쯤에서 계단이 끊겨요. 앞에는 벽돌과 회반죽으로 만든 거대한 사자가 입을 벌리고 서 있어요. 높이 35미터. 그 입이 유일한 길이에요. 장식이 아니에요. 그게 정문이었어요."}}},
+    {"M": {"text": {"S": "이 사자를 세운 건 카샤파라는 왕이에요. 477년경, 친아버지 다투세나 왕을 죽이고 왕위를 뺏은 사람이죠. 정당한 후계자였던 이복동생 모갈라나는 인도로 달아나서 군대를 모으고 있었어요. 복수가 다가오고 있었죠. 카샤파는 수도를 버리고 정글 깊숙한 곳, 아무도 올라올 수 없는 절벽 꼭대기로 궁전을 옮겨요. 충성을 살 수 없으면, 뚫을 수 없는 성을 쌓는 거죠."}}},
+    {"M": {"text": {"S": "그런데 이 사자는 그냥 성벽이 아니에요. 정치적 선언이었어요. '싱할라' — 스리랑카 사람들의 이름 자체가 '사자의 후손'이라는 뜻이에요. 건국 신화에서 첫 번째 왕은 사자의 손자였거든요. 그러니 카샤파가 절벽에 거대한 사자를 세운 건 이런 뜻이에요. 나야말로 사자 핏줄의 정통 후계자다."}}},
+    {"M": {"text": {"S": "규모가 상상이 안 돼요. 남아 있는 발톱과 바위 흔적으로 추정하면, 높이 35미터에 폭 21미터. 몇 미터짜리 앞발 사이에 계단이 있고, 그 계단이 사자의 벌린 입 안으로 이어져요. 입으로 들어가서, 목구멍을 지나고, 꼭대기로 나오는 거예요. 사자 옆을 지나가는 게 아니에요. 사자를 통과하는 거예요."}}},
+    {"M": {"text": {"S": "호랑이 굴에 들어가야 호랑이를 잡는다고 했죠? 여기선 반대예요. 사자 입에 들어가면, 잡히는 건 당신이에요. 외교관이든, 장군이든, 누구든 포식자의 입 안으로 걸어 들어가야 했어요. 삼켜질 것 같은 본능적인 공포. 그리고 하늘 궁전에 도착하면 이미 변해 있어요. 왕 앞에서 당신은 먹잇감이고, 왕은 사냥꾼이라는 걸 온몸으로 깨달은 뒤니까요."}}},
+    {"M": {"text": {"S": "사자는 시작에 불과해요. 바위 전체가 낙원으로 꾸며진 전쟁 기계였어요. 악어가 산다는 해자, 저수지 역할도 하는 정원 연못, 사격장이 되는 잔디밭. 절벽을 깎아 만든 길은 두 사람이 겨우 지날 수 있는 폭이에요. 아름다움과 살상, 두 주인을 동시에 섬기는 설계였어요."}}},
+    {"M": {"text": {"S": "1898년, 영국 고고학자 벨이 수백 년치 잔해를 파내고 거대한 앞발 두 개를 찾아내요. 발톱까지 정교하게 조각된 벽돌 앞발. 그 위로는 바위에 박혀 있던 구멍들과 바랜 회반죽 자국만 남아 있었어요. 나무는 썩고, 회반죽은 부서지고, 벽돌은 1,500년의 열대 폭풍에 씻겨 나간 거예요."}}},
+    {"M": {"text": {"S": "지금은 철제 계단이 사자의 몸이 있던 자리에 박혀 있어요. 관광객들이 바람에 난간을 움켜쥐고 아래 정글을 내려다봐요. 하지만 앞발은 아직 거기 있어요. 마치 사자가 잠깐 드러눕고, 나머지 몸은 바위 속에 숨어 있는 것처럼. 1,500년이 지났어도 꼭대기에 가려면 여전히 그 발 사이를 지나야 해요. 카샤파는 자기 왕국보다 오래 살아남을 문을 만들었어요."}}}
+  ]},
+  "icon": {"S": "🦁"},
+  "tier": {"S": "A"},
+  "source": {"S": "Bell, H.C.P. Report on the Sigiriya Excavations, Archaeological Survey of Ceylon Annual Reports 1896-1904; Bandaranayake, Senake. Sigiriya: City, Palace and Royal Gardens, 2005; Mahavamsa, chapter 6 (Vijaya legend); Culavamsa, chapters 38-39; UNESCO World Heritage Nomination File 202; Paranavitana, Senarath. History of Ceylon, vol. 1, 1959"},
+  "characters": {"L": [
+    {"S": "King Kashyapa I (the builder)"},
+    {"S": "Prince Vijaya (legendary founder of the Sinhalese people, born from a lion)"},
+    {"S": "H.C.P. Bell (British archaeologist who excavated the lion paws in 1898)"},
+    {"S": "The unnamed engineers and laborers who built the fortress"}
+  ]},
+  "era": {"S": "477-495 CE (construction); 1898 (Bell's excavation)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1772124531"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "80.7603"}, "lat": {"N": "7.957"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "builders_wonders"},
+  "storyId": {"S": "lion-gate-sky-fortress"}
+}

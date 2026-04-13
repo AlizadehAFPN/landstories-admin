@@ -1,0 +1,151 @@
+{
+  "siteId": {
+    "S": "delphi"
+  },
+  "storyId": {
+    "S": "socrates-wisest"
+  },
+  "icon": {
+    "S": "🧠"
+  },
+  "tier": {
+    "S": "A"
+  },
+  "source": {
+    "S": "Plato's Apology (20e-23c), Xenophon's Apology, Diogenes Laertius's Lives of Eminent Philosophers"
+  },
+  "era": {
+    "S": "430 BCE"
+  },
+  "readingTimeMinutes": {
+    "N": "3"
+  },
+  "image": {
+    "S": ""
+  },
+  "thumbnail": {
+    "S": ""
+  },
+  "disabled": {
+    "BOOL": false
+  },
+  "coordinates": {
+    "M": {
+      "lng": {
+        "N": "22.501"
+      },
+      "lat": {
+        "N": "38.4824"
+      }
+    }
+  },
+  "hasAudio": {
+    "BOOL": false
+  },
+  "isFree": {
+    "BOOL": true
+  },
+  "storyCategory": {
+    "S": "prophets_pilgrims"
+  },
+  "updatedAt": {
+    "N": "1771448154"
+  },
+  "lang": {
+    "S": "tr"
+  },
+  "langStoryId": {
+    "S": "tr#socrates-wisest"
+  },
+  "title": {
+    "S": "Sokrates — İnsanların En Bilgesi"
+  },
+  "subtitle": {
+    "S": "Felsefeyi doğuran kehanet"
+  },
+  "excerpt": {
+    "S": "Milattan önce 430 civarında, Sokrates’in en yakın arkadaşı Khairephon bir şey yaptı ki düşünce tarihini sonsuza dek değiştirdi. Delfi’ye gitti — antik Yunan’ın en kutsal tapınağına, Apollon tanrısının sesi sayılan Pythia adı bir kâhinin kehanet verdiği yere. Tek bir soru sordu: “Sokrates’ten daha bilge biri var mı?” Pythia’nın cevabı kısa ve sarsıcıydı: “Hayır. Kimse yok.”"
+  },
+  "moralOrLesson": {
+    "S": "Gerçek bilgelik bildiklerinle değil, bilmediklerini kabul etme cesaretiyle başlar. Bilmediği hâlde bildiğini sanan, herkesten önce kendini kandırır. Tarih boyunca söylenmiş en cesur söz iki kelimedir: “Bilmiyorum.”"
+  },
+  "characters": {
+    "L": [
+      {
+        "S": "Sokrates"
+      },
+      {
+        "S": "Khairephon"
+      },
+      {
+        "S": "Pythia"
+      },
+      {
+        "S": "Apollon"
+      },
+      {
+        "S": "Atinalı yurttaşlar"
+      }
+    ]
+  },
+  "paragraphs": {
+    "L": [
+      {
+        "M": {
+          "text": {
+            "S": "Milattan önce 430 civarında, Sokrates’in en yakın arkadaşı Khairephon bir şey yaptı ki düşünce tarihini sonsuza dek değiştirdi. Delfi’ye gitti — antik Yunan’ın en kutsal tapınağına, Apollon tanrısının sesi sayılan Pythia adı bir kâhinin kehanet verdiği yere. Tek bir soru sordu: “Sokrates’ten daha bilge biri var mı?” Pythia’nın cevabı kısa ve sarsıcıydı: “Hayır. Kimse yok.”"
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Haber Atina’ya ulaştığında Sokrates sevinmedi. Gülümsemedi bile. Adam düpedüz şaşkındı. Kendini tanıyordu — yalınayak sokaklarda dolaşan, karşısına çıkan herkese sinir bozucu sorular soran, hiçbir sorunun cevabını bilmeyen bir adam. Yunanistan’ın en kutsal tapınağı onu nasıl olur da yaşayan en bilge insan ilan edebilirdi?"
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Sokrates her zamanki gibi yaptı: araştırmaya koyuldu. Atina’nın bilge diye saydığı insanları buldu — siyasetçileri, şairleri, zanaatkârları — ve tek tek sorgulamaya başladı. Adalet nedir? Cesaret nedir? Gerçekten ne biliyorsunuz, nereden biliyorsunuz?"
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Sonuçlar yıkıcıydı. Siyasetçiler adaletten bol bol bahsediyorlardı ama tanımlayamıyorlardı. Şairler nefes kesen dizeler yazıyorlardı ama ne demek istediklerini açıklayamıyorlardı. Zanaatkârlar kendi işlerinde ustaydılar ama bu ustalığın kendilerini her konuda otorite yaptığını sanıyorlardı. Üçü de bilge olduğundan emindi. Hiçbiri değildi."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "İşte o an her şey yerine oturdu. Sokrates’le ötekilerin arasındaki fark bilgi değildi — dürüstlüktü. Büyük sorular karşısında herkes aynı ölçüde cahildi. Ama sözde bilgeler cevabı bildiklerini sanıyorlardı; Sokrates bilmediğini biliyordu. “Bilmiyorum” diyebilme cesareti — bu küçücük aralık — bilgelikle kendini kandırma arasındaki tek fark buydu."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Kendi sözleriyle: “Bu adamdan daha bilgeyim. İkimiz de bilmeye değer bir şey bilmiyoruz, ama o bilmediği halde bildiğini sanıyor. Ben en azından bilmediğimi biliyorum.” Belki de bugüne kadar söylenmiş en önemli cümle — ve özeti şu: odadaki en akıllı kişi, bilmediğinin sınırlarını bilendir."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Derler ki sabrın sonu selamettir. Sokrates otuz yıl boyunca sabırla Atina’yı sorguladı — sahte güvenleri yıktı, insanlara düşünmeyi dayattı. Ama onun sabrının sonu selamet değil, baldıran zehri oldu. Milattan önce 399’da Atina onu “gençliği yozlaştırmak”la suçladı ve ölüme mahkûm etti. Yine de belki de haklıydı — ölüm onu Atina’nın surlarından çıkarıp tarihin sayfalarına taşıdı. Selamet buysa, buldu."
+          }
+        }
+      },
+      {
+        "M": {
+          "text": {
+            "S": "Delfi Tapınağı’nın girişinde taşa kazınmış iki kelime vardı: “Kendini Bil.” Binlerce kişi o yazıyı okuyup geçti. Sokrates, onu ciddiye alıp bütün hayatını üzerine kuran tek kişi oldu. Yirmi beş yüzyıl geçti. Hâlâ ona yetişmeye çalışıyoruz."
+          }
+        }
+      }
+    ]
+  }
+}

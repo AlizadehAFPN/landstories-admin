@@ -1,0 +1,69 @@
+{
+  "siteId": {"S": "acropolis-athens"},
+  "langStoryId": {"S": "de#caryatids"},
+  "lang": {"S": "de"},
+  "storyId": {"S": "caryatids"},
+  "title": {"S": "Die Karyatiden — Frauen, die den Himmel tragen"},
+  "subtitle": {"S": "Die Frauen von Karyai, versteinert für die Ewigkeit"},
+  "excerpt": {"S": "Sechs Frauen stehen seit zweieinhalbtausend Jahren auf einer Vorhalle in Athen. Keine Statuen auf einem Sockel — echte Säulen. Ihre Köpfe tragen das Dach. Ihre Körper sind die Architektur."},
+  "paragraphs": {
+    "L": [
+      {
+        "M": {
+          "text": {"S": "Sechs Frauen stehen seit zweieinhalbtausend Jahren auf einer Vorhalle in Athen. Keine Statuen auf einem Sockel — echte Säulen. Ihre Köpfe tragen das Dach. Ihre Körper sind die Architektur. Es sind die Karyatiden des Erechtheion, und es gibt keine berühmtere Skulptur, die gleichzeitig den Job eines Tragwerks erledigen muss. Wie sie dort gelandet sind, ist eine Geschichte über Krieg, Verrat und die Frage, ob Schande sich in Schönheit verwandeln kann."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Die bekannteste Version geht so: Im Jahr 480 v. Chr. fiel das persische Heer in Griechenland ein, und eine Kleinstadt namens Karyai auf der südlichen Peloponnes wählte die falsche Seite — sie verbündete sich mit den Persern. Als Griechenland siegte, war die Rache gnadenlos. Die Männer wurden getötet, die Frauen versklavt. Aber das reichte nicht. Athenische Bildhauer meißelten diese Frauen zu Säulen — auf ewig dazu verdammt, ein Gebäude zu tragen. So erzählte es jedenfalls Vitruv, der römische Architekt, vierhundert Jahre später."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Aber es gibt eine andere Theorie, die fast das Gegenteil erzählt. Manche Historiker glauben, die Karyatiden stellen die Arrephoren dar — Mädchen aus den mächtigsten Familien Athens, die ein Jahr lang auf der Akropolis leben und der Göttin Athena dienen durften. Ihre Aufgabe: ein heiliges Gewand für die Göttin weben, das beim größten Fest der Stadt überreicht wurde. Schau dir an, wie sie dastehen: aufrecht, gelassen, einen Fuß leicht vorgesetzt, als gingen sie in einer Prozession. Das ist Hingabe, keine Strafe."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Egal welche Version stimmt — wer sie entworfen hat, schaffte etwas, das niemand zuvor versucht hatte. Er ersetzte schlichte Steinsäulen durch menschliche Figuren — und brachte sie zum Funktionieren. Jede Frau ist ein wenig anders: ein geneigter Kopf, eine verschobene Hüfte, andere Falten im Gewand. Aber die dicken geflochtenen Zöpfe sind nicht nur Schmuck — sie verstärken den Hals genau dort, wo das Gewicht lastet. Der fließende Stoff ahmt die Rillen einer klassischen Säule nach. Sie leisten echte Tragarbeit und sehen dabei völlig mühelos aus."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Heute stehen fünf der sechs Originale sicher im Akropolismuseum, geschützt vor der Athener Luftverschmutzung. Die sechste nahm Lord Elgin 1803 mit, ein britischer Diplomat, der ganze Stücke der Akropolis nach England verschiffen ließ. Seitdem steht sie im British Museum — zweieinhalbtausend Kilometer und zwei Jahrhunderte politischen Streits von ihren Schwestern entfernt. Auf dem Erechtheion stehen Nachbildungen an ihrer Stelle. Die Lücke, wo die fehlende Schwester einst stand, ist vielleicht das eleganteste Protestschild der Welt."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Fünfundzwanzig Jahrhunderte voller Kriege, Imperien, Christentum, osmanischer Herrschaft und modernem Smog — und sie stehen immer noch. Man hat sie gemeißelt, um an einen Verrat zu erinnern, aber irgendwann hat sich die Bedeutung umgekehrt. Niemand besucht sie und denkt dabei an die Schande von Karyai. Die Menschen kommen, weil sechs Frauen aus Stein lebendiger wirken als das meiste, was aus Fleisch und Blut besteht. Was lange währt, wird endlich gut, heißt es — die Karyatiden haben bewiesen, dass selbst Strafe mit genug Zeit in Schönheit münden kann."}
+        }
+      }
+    ]
+  },
+  "moralOrLesson": {"S": "Schönheit kann selbst Strafe in Anmut verwandeln. Die Karyatiden sollten an eine Demütigung erinnern — und wurden zu Sinnbildern ewiger Stärke und Eleganz."},
+  "icon": {"S": "👩"},
+  "tier": {"S": "A"},
+  "source": {"S": "Vitruvius's De Architectura, Pausanias's Description of Greece, modern archaeological analysis"},
+  "characters": {
+    "L": [
+      {"S": "Die sechs Karyatiden"},
+      {"S": "Die Frauen von Karyai"},
+      {"S": "Alkamenes (möglicher Bildhauer)"}
+    ]
+  },
+  "era": {"S": "421-406 BCE (Erechtheion construction)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771530556"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {
+    "M": {
+      "lng": {"N": "23.7263"},
+      "lat": {"N": "37.9722"}
+    }
+  },
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "lost_found"}
+}

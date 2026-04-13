@@ -1,0 +1,154 @@
+import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
+import { DynamoDBDocumentClient, PutCommand, GetCommand } from "@aws-sdk/lib-dynamodb";
+
+const client = new DynamoDBClient({ region: "eu-north-1" });
+const docClient = DynamoDBDocumentClient.from(client, {
+  marshallOptions: { removeUndefinedValues: true },
+});
+
+const TABLE = "Story";
+const now = Math.floor(Date.now() / 1000);
+
+// ─────────────────────────────────────────────
+// Shared fields (unchanged from English)
+// ─────────────────────────────────────────────
+const shared = {
+  siteId: "jerusalem-old-city",
+  storyId: "temple-mount-three-faiths",
+  storyCategory: "prophets_pilgrims",
+  icon: "\u{1F54A}\uFE0F",
+  tier: "S",
+  era: "c. 1000 BC \u2013 present (three millennia of continuous sacred significance)",
+  readingTimeMinutes: 4,
+  image: "",
+  thumbnail: "",
+  disabled: false,
+  hasAudio: false,
+  isFree: true,
+  coordinates: { lng: 35.2355, lat: 31.7777 },
+  source: "Mishnah Yoma 5:2 (Foundation Stone dimensions); Josephus, The Jewish War (70 CE destruction); 1 Kings 6\u20138 (Solomon\u2019s Temple); Genesis 22 (Binding of Isaac); Quran 17:1 (Isra reference); Creswell, K.A.C., Early Muslim Architecture (Dome of the Rock); Ritmeyer, Leen, The Quest: Revealing the Temple Mount in Jerusalem; Grabar, Oleg, The Shape of the Holy; William of Tyre, Historia (Crusader accounts); Ibn al-Athir, The Complete History (Saladin\u2019s reconquest)",
+  updatedAt: now,
+};
+
+// ─────────────────────────────────────────────
+// CHINESE (zh) — 简体中文
+// ─────────────────────────────────────────────
+const zhItem = {
+  ...shared,
+  lang: "zh",
+  langStoryId: "zh#temple-mount-three-faiths",
+  title: `\u8BB0\u4F4F\u4E00\u5207\u7684\u77F3\u5934`,
+  subtitle: `\u4E00\u5757\u77F3\u5934\uFF0C\u4E09\u5927\u4FE1\u4EF0\uFF0C\u4E09\u5343\u5E74\u4E0D\u66FE\u95F4\u65AD\u7684\u7948\u7977`,
+  excerpt: `\u8036\u8DEF\u6492\u51B7\u90A3\u5EA7\u91D1\u8272\u7A79\u9876\u4E4B\u4E0B\uFF0C\u6709\u4E00\u5757\u7C97\u7CA3\u7684\u57FA\u5CA9\u2014\u2014\u5B83\u4ECE\u5C71\u4F53\u4E2D\u9686\u8D77\uFF0C\u50CF\u5927\u5730\u9732\u51FA\u7684\u4E00\u622A\u9AA8\u5934\u3002`,
+  characters: [
+    `\u6240\u7F57\u95E8\u738B`,
+    `\u4E9A\u4F2F\u62C9\u7F55 / \u6613\u535C\u62C9\u6B23`,
+    `\u54C8\u91CC\u53D1\u6B27\u9EA6\u5C14\u00B7\u4F0A\u672C\u00B7\u54C8\u5854\u535C`,
+    `\u63D0\u56FE\u65AF\u7687\u5E1D`,
+    `\u54C8\u91CC\u53D1\u963F\u535C\u675C\u52D2\u00B7\u9A6C\u5229\u514B`,
+    `\u8428\u62C9\u4E01`,
+  ],
+  moralOrLesson: `\u77F3\u5934\u4E0D\u9009\u62E9\u8C01\u8DEA\u5728\u5B83\u9762\u524D\u3002\u5B83\u5E73\u7B49\u5730\u627F\u53D7\u7740\u6240\u6709\u7684\u7948\u7977\uFF0C\u6BCF\u4E00\u79CD\u8BED\u8A00\uFF0C\u6BCF\u4E00\u4E2A\u5BF9\u795E\u7684\u79F0\u547C\u3002\u4E5F\u8BB8\u4E9A\u4F2F\u62C9\u7F55\u7684\u540E\u4EE3\u2014\u2014\u6240\u6709\u7684\u540E\u4EE3\u2014\u2014\u7EC8\u6709\u4E00\u5929\u4F1A\u8BB0\u8D77\uFF0C\u4ED6\u4EEC\u8DEA\u5728\u540C\u4E00\u5757\u77F3\u5934\u4E0A\uFF0C\u6C42\u7684\u662F\u540C\u4E00\u4EFD\u6148\u60B2\u3002\u5B8C\u6210\u8FD9\u4EF6\u5927\u4E1A\u4E0D\u5728\u6211\u4EEC\u8FD9\u4E00\u4EE3\uFF0C\u4F46\u653E\u5F03\u5B83\u7684\u6743\u5229\uFF0C\u6211\u4EEC\u540C\u6837\u6CA1\u6709\u3002`,
+  paragraphs: [
+    {
+      text: `\u8036\u8DEF\u6492\u51B7\u6709\u4E00\u5757\u77F3\u5934\u3002\u4E0D\u662F\u4EC0\u4E48\u7CBE\u5FC3\u96D5\u7422\u7684\u5B9D\u7269\uFF0C\u5C31\u662F\u4E00\u5757\u7C97\u7CA0\u7684\u7070\u767D\u8272\u57FA\u5CA9\u2014\u2014\u957F\u5341\u516B\u7C73\uFF0C\u5BBD\u5341\u4E09\u7C73\uFF0C\u4ECE\u5C71\u810A\u4E0A\u9686\u8D77\u6765\uFF0C\u50CF\u5927\u5730\u9732\u51FA\u7684\u4E00\u622A\u9AA8\u5934\u3002\u72B9\u592A\u4EBA\u53EB\u5B83\u201C\u57FA\u77F3\u201D\uFF0C\u7A46\u65AF\u6797\u53EB\u5B83\u201C\u5723\u5CA9\u201D\u3002\u4E24\u4E2A\u4F20\u7EDF\u8BB2\u4E86\u540C\u4E00\u4E2A\u60CA\u4EBA\u7684\u6545\u4E8B\uFF1A\u4E0A\u5E1D\u521B\u9020\u4E16\u754C\u7684\u65F6\u5019\uFF0C\u4ECE\u8FD9\u91CC\u5F00\u59CB\u3002\u4ED6\u628A\u8FD9\u5757\u77F3\u5934\u653E\u8FDB\u865A\u7A7A\uFF0C\u50CF\u5DE5\u5320\u7838\u4E0B\u7684\u7B2C\u4E00\u5757\u7816\uFF0C\u7136\u540E\u4E07\u7269\u4ECE\u8FD9\u4E2A\u70B9\u5411\u5916\u94FA\u5C55\u5F00\u6765\u3002`,
+    },
+    {
+      text: `\u4F20\u8BF4\u4E9A\u4F2F\u62C9\u7F55\u5C31\u662F\u5728\u8FD9\u5757\u77F3\u5934\u4E0A\u732E\u796D\u7684\u2014\u2014\u72B9\u592A\u7ECF\u5178\u8BF4\u732E\u7684\u662F\u4EE5\u6492\uFF0C\u4F0A\u65AF\u5170\u7ECF\u5178\u8BF4\u662F\u4EE5\u5B9E\u739B\u5229\u3002\u6545\u4E8B\u7684\u9AA8\u67B6\u4E00\u6A21\u4E00\u6837\uFF1A\u4E0A\u5E1D\u8BA9\u4ED6\u4EA4\u51FA\u6700\u7231\u7684\u4EBA\u3002\u4E8E\u662F\u4ED6\u80CC\u4E0A\u67F4\u706B\uFF0C\u9886\u7740\u5B69\u5B50\uFF0C\u8D70\u4E86\u4E09\u5929\u3002\u534A\u8DEF\u4E0A\u5B69\u5B50\u95EE\u4E86\u4E00\u53E5\uFF1A\u7236\u4EB2\uFF0C\u706B\u548C\u67F4\u90FD\u6709\u4E86\uFF0C\u53EF\u7F8A\u5728\u54EA\u91CC\uFF1F\u4E9A\u4F2F\u62C9\u7F55\u7B54\uFF1A\u4E0A\u5E1D\u4F1A\u9884\u5907\u3002\u7136\u540E\u7236\u5B50\u4FE9\u7EE7\u7EED\u8D70\u3002\u4E24\u4EBA\u4E4B\u95F4\u7684\u6C89\u9ED8\uFF0C\u6BD4\u811A\u4E0B\u7684\u5C71\u8FD8\u6C89\u3002`,
+    },
+    {
+      text: `\u4E00\u5343\u5E74\u540E\uFF0C\u6240\u7F57\u95E8\u5728\u8FD9\u5757\u77F3\u5934\u6B63\u4E0A\u65B9\u5EFA\u8D77\u4E86\u7B2C\u4E00\u5723\u6BBF\u2014\u2014\u9999\u67CF\u6728\u3001\u9EC4\u91D1\u3001\u9752\u94DC\uFF0C\u7F8E\u8F6E\u7F8E\u5942\u3002\u6700\u6DF1\u5904\u7684\u201C\u81F3\u5723\u6240\u201D\u4E00\u5E74\u53EA\u5141\u8BB8\u4E00\u4E2A\u4EBA\u8FDB\u5165\u4E00\u6B21\uFF1A\u5927\u796D\u53F8\u8D64\u7740\u811A\u8D70\u5165\uFF0C\u4F4E\u58F0\u5FF5\u51FA\u4E0A\u5E1D\u7684\u771F\u540D\u3002\u5723\u6BBF\u77D7\u7ACB\u4E86\u56DB\u767E\u5E74\uFF0C\u7136\u540E\u5DF4\u6BD4\u4F26\u738B\u5C3C\u5E03\u7532\u5C3C\u6492\u4E00\u628A\u706B\u70E7\u6210\u7070\u70EC\u3002\u7EA6\u67DC\u4ECE\u6B64\u5931\u8E2A\u3002\u88AB\u63B3\u8D70\u7684\u72B9\u592A\u4EBA\u5728\u5F02\u4E61\u54ED\u7740\u8D77\u8A93\uFF1A\u8036\u8DEF\u6492\u51B7\u554A\uFF0C\u5982\u679C\u6211\u5FD8\u4E86\u4F60\uFF0C\u5C31\u8BA9\u6211\u7684\u53F3\u624B\u67AF\u840E\u3002`,
+    },
+    {
+      text: `\u6D41\u4EA1\u8005\u56DE\u6765\u540E\u91CD\u5EFA\u4E86\u5723\u6BBF\uFF0C\u7B80\u6734\u5F97\u8BA9\u89C1\u8FC7\u65E7\u6BBF\u7684\u8001\u4EBA\u843D\u6CEA\u3002\u540E\u6765\u5E0C\u5F8B\u738B\u7838\u91CD\u91D1\u6269\u5EFA\uFF0C\u6709\u4E9B\u77F3\u5757\u91CD\u8FBE\u4E94\u767E\u5428\u3002\u8036\u7A23\u8D70\u8FDB\u53BB\u638C\u7FFB\u4E86\u5546\u4EBA\u7684\u684C\u5B50\uFF0C\u7559\u4E0B\u4E00\u53E5\u8BDD\uFF1A\u8FD9\u91CC\u4E0D\u4F1A\u6709\u4E00\u5757\u77F3\u5934\u7559\u5728\u53E6\u4E00\u5757\u4E0A\u9762\u3002\u516C\u5143\u4E03\u3007\u5E74\uFF0C\u7F57\u9A6C\u5C06\u519B\u63D0\u56FE\u65AF\u9A8C\u8BC1\u4E86\u8FD9\u53E5\u9884\u8A00\u2014\u2014\u4ED6\u7684\u58EB\u5175\u7EB5\u706B\u711A\u6BBF\uFF0C\u4E3A\u4E86\u641C\u522E\u878D\u5316\u5728\u77F3\u7F1D\u91CC\u7684\u9EC4\u91D1\uFF0C\u628A\u6BCF\u4E00\u5757\u77F3\u5934\u90FD\u6495\u5F00\u4E86\u3002\u552F\u4E00\u5E78\u5B58\u7684\u662F\u897F\u5899\u3002\u4E24\u5343\u5E74\u6765\uFF0C\u72B9\u592A\u4EBA\u5728\u90A3\u9762\u5899\u524D\u7948\u7977\uFF0C\u989D\u5934\u8D34\u7740\u51B0\u51B7\u7684\u77F3\u9762\u3002`,
+    },
+    {
+      text: `\u6B64\u540E\u516D\u767E\u5E74\uFF0C\u8FD9\u5EA7\u5C71\u8352\u5E9F\u6210\u4E86\u5E9F\u589F\u3002\u7F57\u9A6C\u4EBA\u5728\u4E0A\u9762\u5EFA\u4E86\u5F02\u6559\u795E\u5E99\uFF0C\u62DC\u5360\u5EAD\u4EBA\u5F80\u5723\u5730\u5012\u5783\u573E\u6765\u7F9E\u8FB1\u72B9\u592A\u4EBA\u3002\u76F4\u5230\u516C\u5143\u516D\u4E09\u4E03\u5E74\uFF0C\u54C8\u91CC\u53D1\u6B27\u9EA6\u5C14\u548C\u5E73\u63A5\u7BA1\u8036\u8DEF\u6492\u51B7\u3002\u5F53\u4ED6\u770B\u5230\u4E9A\u4F2F\u62C9\u7F55\u7684\u5723\u5CA9\u4E0A\u5806\u6EE1\u6C61\u79FD\uFF0C\u4E8C\u8BDD\u4E0D\u8BF4\u8DEC\u4E0B\u6765\u4EB2\u624B\u6E05\u7406\u3002\u4E94\u5341\u5E74\u540E\uFF0C\u54C8\u91CC\u53D1\u963F\u535C\u675C\u52D2\u00B7\u9A6C\u5229\u514B\u5EFA\u8D77\u4E86\u5CA9\u77F3\u5706\u9876\u5BFA\u2014\u2014\u5C31\u662F\u4F60\u5728\u6BCF\u5F20\u8036\u8DEF\u6492\u51B7\u7167\u7247\u4E0A\u770B\u5230\u7684\u90A3\u4E2A\u91D1\u8272\u7A79\u9876\u3002\u6574\u4E2A\u5DE5\u7A0B\u82B1\u4E86\u57C3\u53CA\u4E03\u5E74\u7684\u5168\u90E8\u7A0E\u6536\u3002\u4ED6\u773C\u90FD\u6CA1\u7728\u3002\u4ED6\u662F\u5728\u4E3A\u4E16\u754C\u7684\u8D77\u70B9\u52A0\u5195\u3002`,
+    },
+    {
+      text: `\u4E00\u3007\u4E5D\u4E5D\u5E74\u5341\u5B57\u519B\u7834\u57CE\uFF0C\u5C60\u6740\u4E86\u57CE\u4E2D\u51E0\u4E4E\u6240\u6709\u4EBA\u3002\u4ED6\u4EEC\u5728\u7A79\u9876\u4E0A\u7AD6\u8D77\u5341\u5B57\u67B6\uFF0C\u5728\u5723\u5CA9\u4E0A\u6446\u653E\u796D\u575B\u3002\u5723\u6BBF\u9A91\u58EB\u56E2\u5360\u636E\u4E86\u963F\u514B\u8428\u6E05\u771F\u5BFA\u2014\u2014\u4ED6\u4EEC\u7684\u540D\u5B57\u5C31\u662F\u8FD9\u4E48\u6765\u7684\u3002\u516B\u5341\u516B\u5E74\u540E\u8428\u62C9\u4E01\u593A\u56DE\u8036\u8DEF\u6492\u51B7\uFF0C\u4F46\u4ED6\u6CA1\u6709\u62A5\u590D\u3002\u4ED6\u53D6\u4E0B\u5341\u5B57\u67B6\uFF0C\u6362\u4E0A\u65B0\u6708\uFF0C\u7528\u4ECE\u5927\u9A6C\u58EB\u9769\u8FD0\u6765\u7684\u7F8E\u7470\u6C34\u6D17\u51C0\u4E86\u90A3\u5757\u77F3\u5934\u3002\u77F3\u5934\u4E0D\u8BB0\u5F97\u8C01\u5F81\u670D\u4E86\u5B83\u3002\u5B83\u53EA\u8BB0\u5F97\u8C01\u5728\u5B83\u9762\u524D\u6D41\u8FC7\u6CEA\u3002`,
+    },
+    {
+      text: `\u4ECA\u5929\uFF0C\u72B9\u592A\u4EBA\u5728\u897F\u5899\u7948\u7977\u5374\u4E0D\u8E0F\u4E0A\u5723\u6BBF\u5C71\u2014\u2014\u592A\u795E\u5723\u3002\u7A46\u65AF\u6797\u5728\u963F\u514B\u8428\u793C\u62DC\u3002\u57FA\u7763\u5F92\u8D70\u5728\u8036\u7A23\u4F20\u9053\u7684\u8DEF\u4E0A\u3002\u4E09\u4E2A\u4FE1\u4EF0\uFF0C\u4E00\u5757\u77F3\u5934\uFF0C\u4E09\u5343\u5E74\u3002\u4EBA\u4EEC\u8BF4\u201C\u4E8B\u4E0D\u8FC7\u4E09\u201D\u2014\u2014\u53EF\u8FD9\u5757\u77F3\u5934\u89C1\u8FC7\u7684\uFF0C\u4F55\u6B62\u4E09\u573A\u5174\u4EA1\u3002\u5B83\u6BD4\u6240\u7F57\u95E8\u6D3B\u5F97\u4E45\uFF0C\u6BD4\u63D0\u56FE\u65AF\u6D3B\u5F97\u4E45\uFF0C\u6BD4\u5341\u5B57\u519B\u6D3B\u5F97\u4E45\u3002\u4EE5\u540E\u6765\u7684\uFF0C\u5B83\u7167\u6837\u4F1A\u9001\u8D70\u3002\u77F3\u5934\u4E0D\u8BF4\u8BDD\uFF0C\u4E0D\u9009\u8FB9\u3002\u4F46\u5B83\u8BB0\u4F4F\u4E86\u6BCF\u4E00\u53E5\u7948\u7977\uFF0C\u6BCF\u4E00\u79CD\u8BED\u8A00\uFF0C\u4ECE\u672A\u62D2\u7EDD\u8FC7\u54EA\u6015\u4E00\u53E5\u3002`,
+    },
+  ],
+};
+
+// ─────────────────────────────────────────────
+// JAPANESE (ja) — 日本語
+// ─────────────────────────────────────────────
+const jaItem = {
+  ...shared,
+  lang: "ja",
+  langStoryId: "ja#temple-mount-three-faiths",
+  title: "石は覚えている",
+  subtitle: "ひとつの岩、三つの信仰、三千年の祈り",
+  excerpt: "エルサレムの黄金のドームの下に、山肌からむき出しになった一枚の岩盤がある。大地そのものの骨のように。",
+  characters: [
+    "ソロモン王",
+    "アブラハム / イブラーヒーム",
+    "カリフ・ウマル・イブン・ハッターブ",
+    "皇帝ティトゥス",
+    "カリフ・アブドゥルマリク",
+    "サラディン（サラーフッディーン）",
+  ],
+  moralOrLesson: "石はひざまずく者を選ばない。あらゆる言語の、あらゆる神の名による祈りを、等しく受け止めている。アブラハムの子孫たち——そのすべてが——いつか同じ岩の上で同じ慈悲を求めて泣いていたことに気づく日が来るかもしれない。この業を成し遂げることは私たちに託されてはいない。だが、それを投げ出す自由もまた、私たちにはないのだ。",
+  paragraphs: [
+    {
+      text: "エルサレムに、一枚の石がある。宝石でも彫刻でもない。長さ十八メートル、幅十三メートルの、ごつごつした灰白色の岩盤だ。山の背骨のように地面から盛り上がっている。ユダヤ教では「礎の石」、イスラム教では「聖なる岩」と呼ばれる。そして両方の伝統が、同じ途方もないことを語っている——神が世界を創ったとき、ここから始めた。この石を虚空に据え、すべてはここから広がっていった、と。",
+    },
+    {
+      text: "アブラハムが息子を捧げたのも、この石の上だったと伝わる。ユダヤの伝承ではイサク、イスラムの伝承ではイスマイール。物語の骨格は同じだ。神は言った——最も愛する者を差し出せ。アブラハムは薪を背負い、子どもの手を引いて、三日間歩いた。途中で子どもが聞いた。「お父さん、火と薪はあるけど、羊はどこ？」アブラハムは答えた。「神がお備えになる」。そして二人は歩き続けた。親子の間の沈黙は、山よりも重かった。",
+    },
+    {
+      text: "千年後、ソロモン王がこの石の真上に第一神殿を建てた。杉材、黄金、青銅。最奥の「至聖所」に入れるのは年に一度、大祭司ただ一人。裸足で歩み入り、神の真の名を小声で唱えた。四百年間そびえ立ったその神殿を、バビロンの王ネブカドネザルが焼き尽くした。契約の箱は消えた。捕囚の民は異国で泣きながら誓った——エルサレムよ、もしお前を忘れるなら、この右手を枯れさせよ。",
+    },
+    {
+      text: "帰還した民は神殿を再建した。質素な姿に、旧殿を知る老人たちは涙を流した。やがてヘロデ王が大改修を行い、五百トンを超える石材が積まれた。イエスはそこに入り、商人の台をひっくり返してこう言った——ここの石は一つも残らない。西暦七〇年、ローマの将軍ティトゥスがその言葉を現実にした。兵士たちは神殿に火を放ち、石の隙間に溶け落ちた金を掻き出すために一つ残らず引き剝がした。残ったのは西壁だけ。以来二千年、ユダヤの民はあの壁に額を押し当てて祈り続けている。",
+    },
+    {
+      text: "その後六百年、山は荒れ果てた。ローマ人は異教の神殿を建て、ビザンツ帝国はユダヤ人を辱めるためにゴミを捨てた。六三七年、カリフ・ウマルがエルサレムを平和裡に受け取った。アブラハムの聖なる岩が汚物にまみれているのを見て、彼はひざまずき、自らの手で清めた。五十年後、カリフ・アブドゥルマリクが「岩のドーム」を建てた。エルサレムの写真に必ず写る、あの黄金の建物だ。エジプト七年分の税収をすべて注ぎ込んだ。世界が始まった場所に、冠を載せたのだ。",
+    },
+    {
+      text: "一〇九九年、十字軍がエルサレムを攻め落とし、住民をほぼ皆殺しにした。ドームに十字架を立て、岩の上に祭壇を置いた。テンプル騎士団はアル＝アクサー・モスクに陣取った——彼らの名前の由来がこれだ。八十八年後、サラディンが街を奪い返した。だが彼は虐殺しなかった。十字架を下ろし、三日月を掲げ、ダマスカスから運んだバラ水であの石を洗い清めた。石は征服者を覚えていない。泣いた者だけを覚えている。",
+    },
+    {
+      text: "今、ユダヤ教徒は西壁で祈るが、神殿の丘には足を踏み入れない——聖すぎるからだ。ムスリムはアル＝アクサーで礼拝する。キリスト教徒はイエスが歩いた道をたどる。三つの信仰、ひとつの石、三千年。「石の上にも三年」と言うけれど、この石の上にはもう三千年分の祈りが降り積もっている。石は語らない。味方もしない。でも、あらゆる言葉のあらゆる祈りを覚えていて、ただの一度も拒んだことがない。",
+    },
+  ],
+};
+
+// ─────────────────────────────────────────────
+// Push to DynamoDB
+// ─────────────────────────────────────────────
+async function push(item, label) {
+  console.log(`\n=== Pushing ${label} ===`);
+  try {
+    await docClient.send(
+      new PutCommand({ TableName: TABLE, Item: item })
+    );
+    console.log(`[OK] ${label} pushed successfully.`);
+
+    // Verify
+    const { Item: fetched } = await docClient.send(
+      new GetCommand({
+        TableName: TABLE,
+        Key: { siteId: item.siteId, langStoryId: item.langStoryId },
+      })
+    );
+    if (fetched && fetched.title === item.title) {
+      console.log(`[VERIFIED] ${label} — title: "${fetched.title}", paragraphs: ${fetched.paragraphs.length}`);
+    } else {
+      console.error(`[WARN] ${label} — verification mismatch!`);
+    }
+  } catch (err) {
+    console.error(`[FAIL] ${label}:`, err.message);
+    throw err;
+  }
+}
+
+(async () => {
+  await push(zhItem, "Chinese (zh)");
+  await push(jaItem, "Japanese (ja)");
+  console.log("\nAll done.");
+})();

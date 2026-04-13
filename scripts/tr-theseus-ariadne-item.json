@@ -1,0 +1,44 @@
+{
+  "siteId": {"S": "knossos"},
+  "langStoryId": {"S": "tr#theseus-ariadne"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "theseus-ariadne"},
+  "title": {"S": "Ariadne'nin İpliği"},
+  "subtitle": {"S": "Aşk, ihanet ve kara yelken"},
+  "excerpt": {"S": "Dokuz yılda bir, Atina kan ağlardı. On dört genç — yedisi kız, yedisi erkek — Girit'e gönderilirdi. Orada onları bir canavar bekliyordu."},
+  "moralOrLesson": {"S": "Kahramanların da kusuru olur. Theseus Atina'yı kurtardı ama kurtarıcısına ihanet etti, unutkanlığıyla babasını kaybetti. Zafer her zaman bir bedelle gelir."},
+  "icon": {"S": "🧵"},
+  "tier": {"S": "A"},
+  "source": {"S": "Plutarch's Life of Theseus, Apollodorus's Bibliotheca, Catullus 64, Ovid's Heroides"},
+  "characters": {"L": [
+    {"S": "Theseus"},
+    {"S": "Ariadne"},
+    {"S": "Minotauros"},
+    {"S": "Kral Minos"},
+    {"S": "Kral Aegeus"},
+    {"S": "Dionysos"}
+  ]},
+  "era": {"S": "Mitolojik Çağ"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773661911"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {
+    "lng": {"N": "25.1631"},
+    "lat": {"N": "35.2981"}
+  }},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "love_heartbreak"},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Dokuz yılda bir, Atina kan ağlardı. On dört genç — yedisi kız, yedisi erkek — Girit'e gönderilirdi. Gidecekleri yer: Knossos Sarayı'nın altındaki Labirent. Orada Minotauros bekliyordu — yarı insan, yarı boğa, tamamen canavar. İçeri giren çıkmazdı. Bu, Kral Minos'un Atina'ya biçtiği bedeldi: savaşın faturasını gençlerin canıyla öde. İki kez ödendi bu haraç. Sabır taşı bile üçüncüde çatlar derler ya — Theseus adında bir prens ayağa kalktı ve babasına dedi ki: Bu sefer ben gidiyorum."}}},
+    {"M": {"text": {"S": "Babası yalvardı, Theseus dinlemedi. Ama Aegeus yine de bir söz kopardı: Gemi siyah yelkenlerle gidiyor — yasın rengi. Sağ dönersen, yelkenleri beyaza çevir. Ben kayalıklardan izliyor olacağım. Theseus söz verdi. Gemiye bindi, Girit'e doğru yelken açtı. O an ne babası ne de kendisi biliyordu ki bu söz unutulacak — ve unutulan o söz her şeyi yıkacak."}}},
+    {"M": {"text": {"S": "Girit'e vardıklarında esirler saray meydanında sıralandı. Herkesin gözünde çoktan ölmüşlerdi — nasılsa Labirent'e girecekler, yarını göremeyecekler. Ama kalabalığın içinde bir çift göz farklıydı. Ariadne — Kral Minos'un öz kızı — Theseus'u gördüğü an her şeyi göze aldı. Zincirli, kirli, ama dimdik ayaktaydı; kırılmamıştı. O gece gizlice zindana indi. Yanında iki şey vardı: keskin bir kılıç ve bir top iplik. Bu iki şey her şeyi değiştirecekti."}}},
+    {"M": {"text": {"S": "Plan o kadar basitti ki kimsenin aklına gelmemişti. İpliğin ucunu Labirent'in girişine bağla, dedi Ariadne. İlerledikçe ipliği aç. Canavarı öldürdükten sonra ipliği takip et, çıkışı bulursun. Belki başkaları da düşünmüştü ama kimse bir mahkûm uğruna bu kadar riske girmemişti. Karşılığında Theseus yemin etti: Seni Atina'ya götüreceğim, kraliçem yapacağım. Ariadne hayatını bir yabancının sözüne bağladı. O sözün ne kadar kırılgan olduğunu ikisi de bilmiyordu."}}},
+    {"M": {"text": {"S": "Şafakta Theseus ipliğin ucunu girişe bağladı ve karanlığa yürüdü. Çıkmaz sokaklar, sahte dönüşler, kendi üstüne kıvrılan koridorlar — Labirent insanı çıldırtmak için tasarlanmıştı. Ama iplik arkasında sessizce uzanıyordu, tek çıkış yolu oydu. En derin odada Minotauros'u buldu. Dövüş vahşiydi. Yaratık boynuzlarıyla saldırdı, kükredi, duvarlar yankılandı. Ama Theseus, Atina'nın bugüne kadar bu karanlığa kurban verdiği her genç için dövüşüyordu. Kılıcı canavarın kalbine sapladı. Sonra — sessizlik."}}},
+    {"M": {"text": {"S": "İpliği takip etti, karanlıktan çıktı. Güneş gözlerini kamaştırdı, Ariadne kapıda bekliyordu. Diğer esirleri de kurtardılar, limana koştular, gemiye atladılar. Ariadne yeni hayatına yelken açtığını sanıyordu — Atina'nın kraliçesi olacaktı. Yanılıyordu. Naksos adasında mola verdiklerinde Theseus onu geride bıraktı. Unuttu mu, sıkıldı mı, tanrıların emri miydi — kimse bilmiyor. Ariadne sahilde uyandığında yalnızdı. Geminin ufukta bir noktaya dönüşünü izledi. Söz vermişti. Sözünü tutmadı."}}},
+    {"M": {"text": {"S": "Ama hikâye Ariadne'yi orada bırakmadı. Şarabın ve coşkunun tanrısı Dionysos onu o sahilde buldu, âşık oldu ve onu ölümsüz eşi yaptı. Başındaki tacı alıp gökyüzüne fırlattı — o taç bir takımyıldıza dönüştü. Yaz gecelerinde hâlâ görebilirsiniz: Corona Borealis, Kuzey Tacı. Bir kahraman tarafından terk edilen kadın, bir tanrının karısı oldu. Belki de asıl kurtuluş, kaybedilmekti."}}},
+    {"M": {"text": {"S": "Theseus'a gelince — bedel kapıdaydı. Zafer sarhoşluğundan mı, Ariadne'yi bırakmanın ağırlığından mı, bilinmez — ama yelkenleri değiştirmeyi unuttu. Babası Aegeus, Sounion Burnu'ndaki kayalıklardan ufku tarıyordu; beyaz yelken arıyordu gözleri. Siyah gördü. Oğlum öldü, dedi. Ve kendini denize attı. O deniz bugün hâlâ onun adını taşıyor: Ege Denizi. Canavarı öldüren kahraman, eve döndüğünde babasını — bir top iplik kadar basit bir unutkanlıkla — kendi elleriyle kaybetmişti."}}}
+  ]}
+}

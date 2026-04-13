@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "sigiriya"},
+  "langStoryId": {"S": "de#cloud-maidens"},
+  "storyId": {"S": "cloud-maidens"},
+  "lang": {"S": "de"},
+  "title": {"S": "Die Wolkenmädchen"},
+  "subtitle": {"S": "Fünfhundert himmlische Frauen bedeckten eine Felswand im Dschungel Sri Lankas — nur neunzehn haben überlebt, und nach anderthalb Jahrtausenden weiß niemand, wer sie sind"},
+  "excerpt": {"S": "In Sri Lanka ragt ein Felsen aus dem Dschungel wie eine Steinfaust — zweihundert Meter hoch. Auf halbem Weg nach oben schauen neunzehn Frauen seit anderthalb Jahrtausenden auf die Welt herab. Niemand weiß, wer sie sind."},
+  "moralOrLesson": {"S": "Die größte Kunst beantwortet keine Fragen — sie stellt sie. Fünfzehn Jahrhunderte lang haben Besucher vor diesen Frauen gestanden und ihre eigenen Sehnsüchte, ihre eigene Trauer, ihren eigenen Glauben auf sie projiziert. Und die Wolkenmädchen haben mit demselben gelassenen halben Lächeln zurückgeblickt, ihr Geheimnis gehütet, jede Theorie und jedes Imperium überlebt."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "In Sri Lanka ragt ein Felsen aus dem Dschungel wie eine Steinfaust — zweihundert Meter hoch. Auf halbem Weg nach oben, geschützt in einer Nische der Felswand, schauen neunzehn Frauen seit etwa anderthalb Jahrtausenden auf die Welt herab. Direkt auf den Stein gemalt: goldene Haut, nackter Oberkörper, behängt mit Perlen und Gold. Gemalte Wolken umhüllen ihre Hüften und verbergen alles darunter. Manche tragen Blumen, andere Opfergaben. Alle haben dasselbe halbe Lächeln — einladend und unnahbar zugleich. Niemand weiß, wer sie sind."}}},
+    {"M": {"text": {"S": "Und jetzt wird es erst richtig seltsam: Diese neunzehn sind nur die Überlebenden. Das Original bedeckte die gesamte Westseite des Felsens — über fünftausend Quadratmeter — mit mehr als fünfhundert Figuren. Stell dir das vor: Hunderte goldener Frauen in gemalten Wolken, von den Gärten am Fuß bis zu den Toren der Festung. Das war das Werk von König Kashyapa I., der um 477 seinem eigenen Vater den Thron entriss und diesen Felsen zu seiner Hauptstadt machte. Fünfhundert Frauen an einer Felswand. Heute sind es neunzehn."}}},
+    {"M": {"text": {"S": "Wer sind diese Frauen? Die Fachwelt streitet seit einem Jahrhundert. Erste Theorie: echte Frauen vom Hof Kashyapas — Königinnen, Geliebte, Dienerinnen — auf dem Weg zu einem nahen Tempel mit Opferschalen. Das erklärt die Schalen, aber nicht die Wolken. Warum sollten echte Frauen in Wolken schweben? Zweite Theorie: himmlische Wesen aus der hinduistischen und buddhistischen Mythologie, die in den Wolken leben und Blumen auf die Erde streuen. Das passt besser. Daher kommt auch der berühmte Name: die Wolkenmädchen."}}},
+    {"M": {"text": {"S": "Aller guten Dinge sind drei, heißt es. Aber in Sigiriya hat die dritte Antwort das Rätsel nicht gelöst — sie hat es nur schöner gemacht. Senarath Paranavitana, Sri Lankas bedeutendster Archäologe, forschte jahrzehntelang an der Stätte. Sein Ergebnis: Es sind weder Frauen noch Göttinnen. Es ist das Wetter. Die dunkelhäutigen Figuren stellen Gewitterwolken dar. Die hellhäutigen Blitze. Zusammen bilden sie den tropischen Monsun, der den Felsen jede Regenzeit umhüllt — gemalt auf die Felswand. Kashyapa baute nicht nur eine Festung auf diesem Felsen. Er malte seinen eigenen Himmel."}}},
+    {"M": {"text": {"S": "Die Malereien haben anderthalb Jahrtausende tropischer Monsune überstanden. Die Erbauer meißelten Abflussrinnen in den Fels, um das Regenwasser umzuleiten — sie funktionieren bis heute. Aber die Natur war nicht die schlimmste Bedrohung. 1967 griffen Vandalen die Fresken an: Sie rissen Teile von zwei Figuren ab und verschmierten fünfzehn weitere mit grüner Farbe. Der Schaden war nicht wiedergutzumachen. Von über fünfhundert Originalfiguren sind nur neunzehn geblieben, in ihrer Nische im Fels, die Farben nach fünfzehn Jahrhunderten immer noch warm."}}},
+    {"M": {"text": {"S": "Was die Leute nicht loslässt: Nach all den Theorien kann niemand beweisen, wer diese Frauen sind. Sie schweben einfach da in ihren gemalten Wolken, goldbeladen, und schauen dich an mit diesem halben Lächeln, das nichts verrät. Archäologen fanden am Fuß des Felsens kleine Tonkopien — Souvenirs, die schon im sechsten Jahrhundert an Besucher verkauft wurden. Seit anderthalb Jahrtausenden steigen Menschen auf diesen Felsen und kommen mit mehr Fragen als Antworten wieder herunter. Die Wolkenmädchen bewahren ihr Geheimnis. Das haben sie immer getan."}}}
+  ]},
+  "icon": {"S": "🎨"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paranavitana, Senarath. The Significance of the Paintings of Sigiriya, Artibus Asiae, 1950; Coomaraswamy, Ananda K. Mediaeval Sinhalese Art, 1908; Bell, H.C.P. Report on the Sigiriya Excavations, Archaeological Survey of Ceylon, 1904; Bandaranayake, Senake. Sigiriya: City, Palace and Royal Gardens, 2005; UNESCO World Heritage File 202"},
+  "characters": {"L": [
+    {"S": "King Kashyapa I (patron of the frescoes)"},
+    {"S": "The unnamed master painter and his workshop"},
+    {"S": "Dr. Ananda Coomaraswamy (art historian, apsara theory)"},
+    {"S": "Dr. Senarath Paranavitana (archaeologist, cloud-lightning theory)"},
+    {"S": "H.C.P. Bell (British archaeologist who documented the site)"}
+  ]},
+  "era": {"S": "c. 480 CE (painted); 1875 (European rediscovery); 1967 (vandalism)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771571260"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "80.7603"}, "lat": {"N": "7.957"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "riddles_past"}
+}

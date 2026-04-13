@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "abu-simbel"},
+  "langStoryId": {"S": "tr#unesco-rescue-moving-mountains"},
+  "lang": {"S": "tr"},
+  "storyId": {"S": "unesco-rescue-moving-mountains"},
+  "title": {"S": "Dağ Taşıyanlar"},
+  "subtitle": {"S": "Elli ülke, bir tapınak, tarihin en büyük kurtarma operasyonu"},
+  "excerpt": {"S": "1960 yılı. Mısır'ın önünde imkânsız bir tercih var. Cumhurbaşkanı Cemal Abdülnasır, Nil'in taşkınlarını kontrol altına alacak ve ülkeye elektrik sağlayacak dev bir proje başlattı: Assuan Barajı. Ama barajın gerisinde oluşacak Nasır Gölü, Nil Vadisi'nin 500 kilometrelik kesimini suyun altında bırakacaktı."},
+  "moralOrLesson": {"S": "İnsanlık tüm ayrılıklarını bir kenara bırakıp gerçekten önemli olanı korumaya karar verdiğinde, dağları bile yerinden oynatabilir."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "1960 yılı. Mısır'ın önünde imkânsız bir tercih var. Cumhurbaşkanı Cemal Abdülnasır, Nil'in taşkınlarını kontrol altına alacak ve ülkeye elektrik sağlayacak dev bir proje başlattı: Assuan Barajı. Ama barajın gerisinde oluşacak Nasır Gölü, Nil Vadisi'nin 500 kilometrelik kesimini suyun altında bırakacaktı. Düzinelerce antik tapınak yok olacaktı — başta da Büyük Ramses'in 3.200 yıl önce kayalığa oyduğu ikiz tapınak: Abu Simbel."}}},
+    {"M": {"text": {"S": "UNESCO daha önce kimsenin denemediği bir şey yaptı: bütün dünyaya seslendi. \"Ya bu tapınakları birlikte kurtarırız, ya da sonsuza dek kaybolurlar.\" Ve dünya gerçekten geldi. Soğuk Savaş'ın tam göbeğinde, başka hiçbir konuda anlaşamayan elli ülke para, mühendis ve ekipman yolladı. Mısır'la uzaktan yakından ilgisi olmayan İsveç, en büyük bağışçılardan biri çıktı. Toplam fatura: 40 milyon dolar — bugünün parasıyla yaklaşık 360 milyon."}}},
+    {"M": {"text": {"S": "İşin çılgın tarafına gelelim: Abu Simbel sökülüp taşınabilecek bir yapı değildi. Tapınaklar doğrudan kayaya oyulmuştu. İsveçli mühendislik firması VBB, kulağa deli işi gibi gelen bir plan ortaya attı: tapınakları 1.036 ayrı bloğa kes — her biri 20 ila 30 ton. Sonra her parçayı 65 metre yukarı, 200 metre karaya doğru taşı. En sonunda orijinal kayalığın birebir kopyası olan yapay bir tepenin üzerinde yeniden birleştir."}}},
+    {"M": {"text": {"S": "1964'te çalışmalar başladığında göl çoktan tapınaklara doğru ilerliyordu. İşçiler suyu durdurmak için geçici bir set kurdu, zar zor zaman kazandı. Ama asıl aklınızı başınızdan alacak detay şu: elektrikli alet kullanamazlardı. Titreşim 3.200 yıllık kumtaşını paramparça ederdi. Her kesim elle, milimetre hassasiyetiyle yapıldı. Her blok numaralandı, vinçle kaldırıldı ve orijinal yerine birebir oturtuldu. Tarihin en yüksek riskli yapboz oyunuydu."}}},
+    {"M": {"text": {"S": "Tepenin içine dünyanın en büyük beton kubbelerinden biri inşa edildi — Nasır Gölü'nün çöle getirdiği nemden taşları korumak için. Ardından çevredeki araziyi öyle ustalıkla biçimlendirdiler ki, Abu Simbel'e doğru yürüyen biri üç bin yıl önceki manzaranın neredeyse aynısını görüyordu. Her kaya, her eğim, her gölge — orijinaliyle örtüşüyordu."}}},
+    {"M": {"text": {"S": "22 Eylül 1968. Abu Simbel resmen açıldı — ve mühendisler son bir mucize daha başarmıştı. Yılda iki kez güneş ışığı tapınağın en derin noktasına ulaşıp tanrı heykellerini aydınlatır — orijinal mimarların 32 yüzyıl önce hesapladığı inanılmaz bir hassasiyet. Yeni konumda bu güneş hizalaması, orijinal tarihlerden yalnızca bir gün sapmayla korunmuştu. Taşınmadan önce Abu Simbel'i görmüş olanlar farkı anlayamadıklarını söyledi."}}},
+    {"M": {"text": {"S": "Ama Abu Simbel'in dünyaya bıraktığı en büyük miras tapınakların kendisi değildi. \"Dağ dağa kavuşmaz\" derler ya — elli ülke bir araya gelince, dağları gerçekten yerinden oynattılar. Bu başarı 1972 UNESCO Dünya Mirası Sözleşmesi'ni doğurdu. Bugün dünya genelinde 1.100'den fazla yer koruma altında — Machu Picchu'dan Çin Seddi'ne kadar. Korunan her bir yer, elli ulusun \"bazı şeyler uğruna dağ taşımaya değer\" dediği o güne borçlu."}}}
+  ]},
+  "icon": {"S": "🏗️"},
+  "tier": {"S": "A"},
+  "source": {"S": "Desroches-Noblecourt, C. et al. The Rescue of Abu Simbel. UNESCO, 1968; Säve-Söderbergh, T. Temples and Tombs of Ancient Nubia. Thames & Hudson, 1987"},
+  "characters": {"L": [
+    {"S": "UNESCO"},
+    {"S": "Gamal Abdel Nasser"},
+    {"S": "VBB Engineering (Sweden)"},
+    {"S": "International community of 50 nations"}
+  ]},
+  "era": {"S": "Modern (1964-1968)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "31.6256"}, "lat": {"N": "22.3369"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "disabled": {"BOOL": false},
+  "storyCategory": {"S": "crowns_conquests"},
+  "updatedAt": {"N": "1773584359"}
+}

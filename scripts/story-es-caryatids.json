@@ -1,0 +1,69 @@
+{
+  "siteId": {"S": "acropolis-athens"},
+  "langStoryId": {"S": "es#caryatids"},
+  "lang": {"S": "es"},
+  "storyId": {"S": "caryatids"},
+  "title": {"S": "Las Cariátides — Condenadas a sostener el cielo"},
+  "subtitle": {"S": "Las mujeres de Carie convertidas en piedra"},
+  "excerpt": {"S": "Seis mujeres llevan dos mil quinientos años de pie en un pórtico de Atenas. No son estatuas decorativas — son columnas de verdad. Sus cabezas sostienen el techo. Sus cuerpos son la estructura."},
+  "paragraphs": {
+    "L": [
+      {
+        "M": {
+          "text": {"S": "Seis mujeres llevan dos mil quinientos años de pie en un pórtico de Atenas. No son estatuas apoyadas en una repisa: son columnas. Sus cabezas sostienen el techo. Sus cuerpos son la estructura del edificio. Son las Cariátides del Erecteion, y no existe en el mundo otra escultura a la que le hayan pedido hacer el trabajo de un arquitecto. Cómo acabaron ahí es una historia de guerra, traición y de cómo la vergüenza puede convertirse en algo hermoso."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "La versión más conocida dice así. En el 480 a.C., el ejército persa invadió Grecia, y un pequeño pueblo llamado Carie, en el sur del Peloponeso, eligió el bando equivocado: se alió con los persas. Cuando Grecia ganó, la venganza fue brutal. Mataron a los hombres, esclavizaron a las mujeres. Pero eso no bastó. Los escultores atenienses tallaron a esas mujeres en columnas — condenadas a sostener un edificio para siempre. Así lo contó Vitruvio, el arquitecto romano, cuatrocientos años después."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Pero hay otra teoría, casi opuesta. Algunos historiadores creen que las Cariátides representan a las Arréforas: adolescentes de las familias más poderosas de Atenas, elegidas para vivir un año en la Acrópolis al servicio de la diosa Atenea. Su tarea era tejer un manto sagrado que se presentaba en la mayor fiesta religiosa de la ciudad. Fíjate en cómo están de pie: erguidas, serenas, con un pie ligeramente adelantado, como si caminaran en procesión. Eso es devoción, no castigo."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Sea cual sea la verdad, quien las diseñó logró algo que nadie había intentado. Reemplazó columnas de piedra lisa por figuras humanas, y consiguió que funcionaran. Cada mujer es ligeramente distinta: una cabeza ladeada, una cadera desplazada, pliegues diferentes en la túnica. Pero sus gruesas trenzas no son puro adorno — refuerzan el cuello justo donde cae el peso. Los pliegues de la tela imitan los surcos de una columna clásica. Hacen trabajo estructural real mientras parecen no esforzarse en absoluto."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Hoy, cinco de las seis originales están en el Museo de la Acrópolis, a salvo de la contaminación de Atenas. La sexta se la llevó Lord Elgin en 1803, un diplomático británico que embarcó trozos enteros de la Acrópolis rumbo a Inglaterra. Desde entonces vive en el Museo Británico, separada de sus hermanas por dos mil quinientos kilómetros y dos siglos de pelea política. En el Erecteion, réplicas ocupan su lugar. El hueco donde estuvo la hermana ausente es quizá la pancarta de protesta más elegante del mundo."}
+        }
+      },
+      {
+        "M": {
+          "text": {"S": "Veinticinco siglos de guerras, imperios, cristianismo, dominio otomano y contaminación moderna — y ahí siguen. Las tallaron para recordar una traición, pero en algún momento el significado se dio la vuelta. Nadie las visita pensando en la vergüenza de Carie. La gente va porque seis mujeres de piedra parecen más vivas que la mayoría de las cosas hechas de carne y hueso. Dicen que no hay mal que por bien no venga — las Cariátides fueron más lejos: demostraron que hasta el castigo puede volverse lo más bello del lugar."}
+        }
+      }
+    ]
+  },
+  "moralOrLesson": {"S": "La belleza puede convertir el castigo en arte. Las Cariátides nacieron para recordar una humillación, y terminaron siendo símbolo de fuerza y elegancia eterna."},
+  "icon": {"S": "👩"},
+  "tier": {"S": "A"},
+  "source": {"S": "Vitruvius's De Architectura, Pausanias's Description of Greece, modern archaeological analysis"},
+  "characters": {
+    "L": [
+      {"S": "Las Seis Cariátides"},
+      {"S": "Las mujeres de Carie"},
+      {"S": "Alcámenes (posible escultor)"}
+    ]
+  },
+  "era": {"S": "421-406 BCE (Erechtheion construction)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771530556"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {
+    "M": {
+      "lng": {"N": "23.7263"},
+      "lat": {"N": "37.9722"}
+    }
+  },
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "lost_found"}
+}

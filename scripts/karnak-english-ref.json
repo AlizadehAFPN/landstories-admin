@@ -1,0 +1,119 @@
+{
+  "stories": [
+    {
+      "storyId": "hatshepsut-woman-pharaoh",
+      "tier": "A",
+      "icon": "👑",
+      "storyCategory": "crowns_conquests",
+      "disabled": false,
+      "isFree": true,
+      "hasAudio": false,
+      "readingTimeMinutes": 3,
+      "coordinates": { "lat": 25.719, "lng": 32.6575 },
+      "image": "",
+      "thumbnail": "",
+      "source": "Tyldesley, Joyce. Hatchepsut: The Female Pharaoh. Penguin, 1996; Karnak obelisk inscriptions",
+      "en": {
+        "title": "Hatshepsut: The Woman Who Became Pharaoh",
+        "subtitle": "She wore the false beard, erected the tallest obelisks, and defied a nephew who tried to erase her from history",
+        "moralOrLesson": "Those who try to erase the truth from history often end up preserving it, and genuine achievement outlasts every attempt at suppression.",
+        "era": "New Kingdom (c. 1479-1458 BC)",
+        "characters": ["Hatshepsut", "Thutmose III (stepson/nephew)", "Thutmose I (father)", "Thutmose II (husband)"],
+        "paragraphs": [
+          "A woman declared herself pharaoh. Not regent, not queen consort, not \"Great Royal Wife\" — pharaoh. The full, divine, absolute ruler of Upper and Lower Egypt, with all the titles, powers, and religious authority that entailed. Her name was Hatshepsut, and the obelisks she erected at Karnak still stand as defiant testimony to her extraordinary reign.",
+          "Hatshepsut was the daughter of Thutmose I and the wife of Thutmose II, who died young, leaving the throne to his infant son by a secondary wife — the future Thutmose III. As the boy's stepmother and aunt, Hatshepsut served as regent, governing Egypt on behalf of a child too young to rule. But within a few years, she took the unprecedented step of claiming the pharaonic title for herself, presenting herself in official art and inscriptions as a male king, complete with the royal kilt, the false beard of divinity, and the double crown of Upper and Lower Egypt.",
+          "At Karnak, Hatshepsut left her most dramatic architectural mark: two enormous obelisks carved from single blocks of Aswan granite, the taller of which stands 29.5 meters high and weighs approximately 323 tons. The obelisks were quarried in Aswan, transported 200 kilometers down the Nile on specially constructed barges, erected at Karnak, and their tips — the pyramidia — were covered in electrum, a natural alloy of gold and silver that blazed in the Egyptian sun like frozen lightning. An inscription describes the spectacle: \"Their height pierces the heavens, their light floods the Two Lands like the sun disk. Never was the like seen since the earth was founded.\"",
+          "Hatshepsut reigned for approximately 22 years, during which Egypt prospered. She launched the famous trading expedition to the Land of Punt, expanded temple construction, and maintained relative peace. When she died — or was removed from power — around 1458 BC, her stepson Thutmose III finally took sole control of the throne he had technically held since infancy.",
+          "What followed was one of history's most systematic attempts at erasure. Thutmose III — who would become Egypt's greatest military pharaoh, the \"Napoleon of Egypt\" — ordered Hatshepsut's name and image removed from monuments throughout Egypt. Her cartouches were chiseled off temple walls. Her statues were smashed and buried. Her image was replaced with those of Thutmose I, II, or III. The campaign was thorough, methodical, and largely successful — Hatshepsut virtually disappeared from Egyptian history for over three thousand years, until 19th-century archaeologists began piecing together the evidence of her reign.",
+          "But at Karnak, Thutmose III faced a problem he could not solve. Hatshepsut's obelisks were too massive and too sacred to destroy — they were, after all, monuments to Amun himself, merely commissioned by Hatshepsut. So Thutmose adopted a different strategy: he built walls around the lower portions of the obelisks, encasing them in stone that hid Hatshepsut's inscriptions and images from view while leaving the obelisks themselves intact.",
+          "The irony is exquisite. Thutmose's enclosing walls actually protected Hatshepsut's inscriptions from weathering and vandalism. When the walls eventually crumbled, the inscriptions they had hidden were better preserved than those exposed to the elements. The nephew who sought to erase his stepmother from history inadvertently ensured that her words would survive. Today, Hatshepsut's obelisk at Karnak remains the tallest standing ancient obelisk at the site, her inscriptions still legible, her name still proclaimed in stone — the last word in a family feud that has lasted three and a half thousand years."
+        ]
+      }
+    },
+    {
+      "storyId": "hypostyle-hall-divine",
+      "tier": "A",
+      "icon": "🏛️",
+      "storyCategory": "prophets_pilgrims",
+      "disabled": false,
+      "isFree": true,
+      "hasAudio": false,
+      "readingTimeMinutes": 3,
+      "coordinates": { "lat": 25.7188, "lng": 32.6573 },
+      "image": "",
+      "thumbnail": "",
+      "source": "Brand, Peter J. The Monuments of Seti I. Leiden: Brill, 2000; Karnak Great Hypostyle Hall Project (Memphis University)",
+      "en": {
+        "title": "The Hypostyle Hall",
+        "subtitle": "134 columns, 24 meters tall — standing at sunset in the presence of the divine",
+        "moralOrLesson": "The most profound human creations are those that connect us to something beyond ourselves, and the sacred can be built from stone.",
+        "era": "New Kingdom (c. 1290-1279 BC)",
+        "characters": ["Seti I (began construction)", "Ramesses II (completed construction)", "Amun-Ra"],
+        "paragraphs": [
+          "The roof — now largely destroyed — consisted of enormous stone slabs spanning the gaps between the columns, with clerestory windows in the raised central section that admitted shafts of light into the otherwise shadowed interior.",
+          "It is these shafts of light that create the hall's most transcendent quality. As the sun moves across the sky, beams of light enter through the clerestory openings and move through the forest of columns like the hands of a divine clock, illuminating different reliefs and inscriptions at different hours. In the morning, the eastern columns glow with warm light while the western half remains in deep shadow. At noon, the light falls straight down, creating pools of brilliance on the floor surrounded by rings of darkness. At sunset — the hour that visitors consistently describe as the most overwhelming — the western clerestory windows blaze with golden-orange light that floods horizontally through the columns, turning the sandstone to molten amber and casting shadows of infinite depth and complexity.",
+          "Ancient visitors experienced the Hypostyle Hall as a representation of the papyrus marshes of creation — the primordial swamp from which the first mound of earth emerged at the beginning of time. The columns, carved to resemble papyrus stalks with closed-bud and open-flower capitals, were a literal stone forest through which the god Amun moved during festival processions. The experience of walking through the hall was designed to simulate the journey through the primordial landscape to the moment of creation itself.",
+          "Modern visitors, stripped of the theological framework but confronting the same overwhelming physical space, consistently describe feelings that transcend ordinary aesthetic appreciation. Architectural historians and travel writers reach for religious language: \"standing in the presence of the divine,\" \"a silence that speaks,\" \"the closest thing to a spiritual experience that stone can create.\" Even hardened skeptics report a sense of awe that resists rational analysis — an involuntary response to scale, proportion, light, and shadow that seems to bypass the intellect and address something older and deeper in the human psyche.",
+          "The Hypostyle Hall has endured earthquakes, floods, neglect, and the deliberate vandalism of religious reformers. Columns have fallen and been re-erected. Roofing slabs have crashed to the floor and been cleared away. The paint has faded, the gold has been stripped, and the incense that once filled the air with fragrant clouds has dissipated across millennia. And yet, at sunset, when the light turns golden and the columns cast their ancient shadows, the Hypostyle Hall still does what its builders intended it to do three thousand years ago: it makes you feel the presence of something greater than yourself."
+        ]
+      }
+    },
+    {
+      "storyId": "sacred-lake-midnight",
+      "tier": "B",
+      "icon": "🌙",
+      "storyCategory": "riddles_past",
+      "disabled": true,
+      "isFree": true,
+      "hasAudio": false,
+      "readingTimeMinutes": 3,
+      "coordinates": { "lat": 25.7188, "lng": 32.6573 },
+      "image": "",
+      "thumbnail": "",
+      "source": "Karnak temple inscriptions; local Luxor oral tradition; Sullivan, E. Karnak: Evolution of a Temple. Routledge, 2020",
+      "en": {
+        "title": "The Sacred Lake",
+        "subtitle": "Walk seven times at midnight — and the golden boat of Amun appears",
+        "moralOrLesson": "Sacred places retain their power long after the rituals that consecrated them have ceased, and some traditions persist because they speak to truths deeper than fact.",
+        "era": "Ancient through present",
+        "characters": ["Amun-Ra", "Ancient priests of Amun", "Modern pilgrims and visitors"],
+        "paragraphs": [
+          "At the heart of the Karnak temple complex lies the Sacred Lake — a rectangular pool of dark, still water that served as the ritual bathing place for the priests of Amun and the symbolic center of the temple's sanctuary. The water was believed to be connected to Nun, the primordial ocean from which all creation emerged at the beginning of time. To bathe in the Sacred Lake was to touch the waters of creation itself.",
+          "But the lake's most enduring legend concerns what happens to those who visit it after dark. According to a tradition that has persisted among the people of Luxor for centuries — predating the modern tourism era and rooted in much older folk beliefs — anyone who walks around the Sacred Lake seven times at midnight, in complete silence, with a pure heart and a sincere wish, will see their desire fulfilled. The ritual must be performed alone, counterclockwise (the direction of the sun's journey through the underworld), and the walker must not speak a single word from the first step until the seventh circuit is complete.",
+          "Those who have performed the ritual report experiences that range from profound inner peace to genuinely inexplicable phenomena. Some describe a sudden sensation of warmth radiating from the water despite the cool desert night. Others speak of a low humming sound that seems to emanate from the stone itself, rising and falling in a rhythm that corresponds to no natural source. The most dramatic accounts — whispered rather than spoken, shared in the confidence of trust — describe seeing a golden light beneath the surface of the water during the seventh circuit, as if something luminous were rising from the depths.",
+          "The golden light, tradition holds, is the sacred boat of Amun-Ra — the barque in which the god traveled across the sky during the day and through the underworld at night. Ancient records describe a full-sized golden boat that was stored in the temple and carried in procession during festivals. When the temple fell into ruin and the priests departed, the golden boat was said to have returned to the primordial waters from which it came, sinking into the Sacred Lake to await the day when the rituals would resume.",
+          "During the full moon, the legend takes on an additional dimension. The moonlight reflected in the perfectly still water creates an almost supernatural luminosity, and locals say this is when the barrier between the world of the living and the world of the ancient gods grows thinnest. Fishermen and farmers living near the temple have reported seeing lights moving across the lake's surface on full-moon nights — lights that leave no wake and cast no reflection.",
+          "Modern archaeologists note that the Sacred Lake is fed by groundwater channels that connect to the Nile, and that the limestone bedrock beneath the complex contains numerous cavities and passages. The sounds reported by midnight visitors could be the movement of water through underground channels. The lights could be reflections, phosphorescence, or imagination. But the tradition persists because it connects the living to the ancient — a continuous thread of wonder linking the modern visitor to the priests who bathed in these same waters when the temple was alive with incense, chanting, and the golden gleam of Amun's boat catching the light of a four-thousand-year-old dawn."
+        ]
+      }
+    },
+    {
+      "storyId": "thutmose-iii-annals",
+      "tier": "C",
+      "icon": "⚔️",
+      "storyCategory": "crowns_conquests",
+      "disabled": true,
+      "isFree": true,
+      "hasAudio": false,
+      "readingTimeMinutes": 2,
+      "coordinates": { "lat": 25.7188, "lng": 32.6573 },
+      "image": "",
+      "thumbnail": "",
+      "source": "Lichtheim, M. Ancient Egyptian Literature, Vol. II. Univ. of California Press, 1976; Cline, Eric H. The Battles of Armageddon, 2000",
+      "en": {
+        "title": "Thutmose III's Annals: The Napoleon of Egypt",
+        "subtitle": "The first battle recorded in detail — and its name echoes in the Book of Revelation",
+        "moralOrLesson": "Bold leadership and calculated risk can achieve what cautious consensus cannot, and the echoes of a single battle can resound for millennia.",
+        "era": "New Kingdom (c. 1457 BC)",
+        "characters": ["Thutmose III", "King of Kadesh", "Egyptian generals", "Canaanite coalition"],
+        "paragraphs": [
+          "Thutmose III stood at a crossroads — literally and figuratively. Three roads led to the fortress city of Megiddo, where a coalition of Canaanite kings had gathered to defy Egyptian authority. Two routes were safe but slow, curving around the mountains to approach from the north and south. The third led directly through the narrow Aruna pass — a route so tight that the army would have to march single file, vulnerable to ambush, unable to retreat. His generals unanimously advised against the direct route. Thutmose chose it anyway. According to the account carved into the walls of Karnak — the earliest detailed battle narrative in recorded history — the pharaoh silenced his commanders with a challenge: \"I shall go on this road of Aruna. Let him of you who wishes go on those roads you have mentioned, and let him of you who wishes come in my Majesty's following. Shall they say among those enemies: 'Has His Majesty gone on another road because he is afraid of us?'\" The pharaoh's appeal to honor and boldness carried the day. The entire army followed him through the pass.",
+          "The gamble paid off spectacularly. The enemy coalition, expecting the Egyptians to take one of the safer routes, had split their forces to guard both approaches — leaving the direct route through the Aruna pass virtually undefended. Thutmose's army emerged from the pass and deployed on the plain of Megiddo before the astonished enemy could regroup. The battle was a decisive Egyptian victory. The coalition forces fled into the city, whose gates were slammed shut so quickly that soldiers had to be hauled over the walls by their clothing.",
+          "The Annals record the aftermath with meticulous bureaucratic precision: 924 chariots captured, 2,238 horses, 200 suits of armor, 502 bows, the king's tent with its golden tent pole, and staggering quantities of gold, silver, grain, and cattle. The siege of Megiddo lasted seven months before the city surrendered. Thutmose treated the defeated kings with calculated mercy — stripping them of power but allowing them to return home as Egyptian vassals — a policy of controlled leniency that stabilized his conquests.",
+          "The name \"Megiddo\" would echo far beyond ancient Egypt. In Hebrew, the name became \"Har Megiddo\" — the Mountain of Megiddo — which in Greek transliteration became \"Armageddon.\" The Book of Revelation (16:16) identifies Armageddon as the site of the final battle between good and evil at the end of the world. The battlefield where Thutmose III won his greatest victory over three thousand years ago became, in the Christian prophetic tradition, the symbolic location of humanity's ultimate conflict.",
+          "Thutmose III's Annals at Karnak remain the earliest example of systematic military record-keeping, the first reliable account of a pitched battle, and the origin of a word — Armageddon — that has defined the Western imagination of apocalypse for two thousand years. The pharaoh who carved his victories into the temple walls could not have imagined that his battle records would outlast not only his empire but his entire civilization, still read and studied three and a half millennia later by soldiers, scholars, and seekers of prophecy alike."
+        ]
+      }
+    }
+  ]
+}

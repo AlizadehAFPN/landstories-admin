@@ -1,0 +1,33 @@
+{
+  "siteId": {"S": "stonehenge"},
+  "langStoryId": {"S": "tr#solstice-druid-mysteries"},
+  "lang": {"S": "tr"},
+  "title": {"S": "Beş Bin Yıllık Randevu"},
+  "subtitle": {"S": "Taş, güneş ve insanın gökyüzüne uzanan eli"},
+  "excerpt": {"S": "Stonehenge rastgele dikilmemiş. Ana ekseni yaz gündönümünde güneşin doğuşuyla, kış gündönümünde batışıyla birebir örtüşüyor. Bu hassasiyet tesadüf değil."},
+  "moralOrLesson": {"S": "Taşın ve yıldızın hizası, insanın en eski özlemine sesleniyor — evrende bir düzen aramak, zamanın dönüşünü işaretlemek ve aydınlıkla karanlığın eşiğinde yan yana durup aynı hayranlığı paylaşmak."},
+  "icon": {"S": "☀️"},
+  "tier": {"S": "A"},
+  "source": {"S": "William Stukeley, \"Stonehenge: A Temple Restor'd to the British Druids\" (1740); Gerald Hawkins, \"Stonehenge Decoded\" (1965); Andy Worthington, \"Stonehenge: Celebration and Subversion\" (2004); Christopher Chippindale, \"Stonehenge Complete\" (4th ed., 2012)"},
+  "characters": {"L": [{"S": "William Stukeley"}, {"S": "Gerald Hawkins"}, {"S": "The Ancient Order of Druids"}, {"S": "The New Age travelers of the 1980s"}, {"S": "Modern solstice celebrants"}]},
+  "era": {"S": "Neolithic origins (c. 3000 BC) to modern revival (18th century - present)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1773514055"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "-1.8262"}, "lat": {"N": "51.1789"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "prophets_pilgrims"},
+  "storyId": {"S": "solstice-druid-mysteries"},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Stonehenge rastgele dikilmemiş. Anıtın ana ekseni, yaz gündönümünde güneşin doğuşuyla, kış gündönümünde batışıyla birebir örtüşüyor. Yılın en uzun gününde — 21 Haziran civarında — tam merkezde durup doğuya bakın: güneş, \"Topuk Taşı\" denilen devasa bir kaya bloğunun üzerinden yükselir ve ilk ışınlarını doğruca anıtın kalbine gönderir. Beş bin yıl önce birisi oturup bunu hesapladı. Tesadüf demeyin."}}},
+    {"M": {"text": {"S": "1720'lerde William Stukeley adında bir İngiliz doktor, Stonehenge'e bambaşka bir gözle baktı. Alanı titizlikle ölçen, haritasını çıkaran ilk kişi oydu. Gündönümü hizasını fark edince kafasına bir fikir saplandı: bu yapıyı Druidler inşa etmiş olmalıydı. Druidler, Romalı general Julius Caesar'ın \"antik Britanya'nın ruhani önderleri\" diye tanımladığı gizemli rahiplerdi. Stukeley öyle kendini kaptırdı ki, kendine \"Druidlerin Prensi\" unvanını taktı."}}},
+    {"M": {"text": {"S": "İşin ilginci, Stukeley yanılıyordu. Druidler, Stonehenge'in inşasından binlerce yıl sonra yaşamış bir topluluktu. Ama bu fikir bir kez ortaya atılınca durdurulamadı. 1800'lerde kendilerine Druid diyen gruplar, şafak vakti beyaz cüppeler içinde Stonehenge'de tören düzenlemeye başladı. 1900'lerin ortasına gelindiğinde yaz gündönümü tam anlamıyla bir hacca dönüşmüştü — paganlar, mistikler, meraklı gezginler... Kadim bir şeyle bağ kurmak isteyen herkes bu taşların arasındaydı."}}},
+    {"M": {"text": {"S": "Sonra işler çığırından çıktı. 1980'lerin başında Stonehenge Özgür Festivali — müzik, alternatif yaşam, on binlerce katılımcı — kontrolden çıktı. Yetkililer taşlara zarar geleceğinden korkup festivali yasakladı. 1 Haziran 1985'te polis, alana giden 600 kadar gezgini yolda durdurdu. Ardından yaşananlar İngiltere'yi sarstı: camlar kırıldı, aileler otobüslerden sürüklendi, 537 kişi gözaltına alındı. İkinci Dünya Savaşı'ndan bu yana ülkenin en büyük toplu tutuklamasıydı. Tarihe \"Fasulye Tarlası Savaşı\" olarak geçti."}}},
+    {"M": {"text": {"S": "Yıllarca süren müzakerelerden sonra uzlaşıya varıldı. 2000 yılından bu yana Stonehenge, her iki gündönümünde de ücretsiz olarak ziyarete açılıyor. Her yaz, 20.000 ile 37.000 kişi karanlıkta toplanıyor — beyaz cüppeli Druidler, elinde telefon turistler, küçük çocuklu aileler — ve hep birlikte şafağı bekliyor. Güneş Topuk Taşı'nı aşıp çemberi ışıkla doldurduğunda devasa bir tezahürat yükseliyor. Aynı güneş, aynı yer. Beş bin yıldır değişen bir şey yok."}}},
+    {"M": {"text": {"S": "Bu hiza sadece mistikleri değil, bilim insanlarını da peşinden sürükledi. 1965'te gökbilimci Gerald Hawkins, \"Stonehenge Decoded\" adlı kitabını yayımladı. Tezi cesurdu: anıt, güneş ve ay tutulmalarını hesaplamak için tasarlanmış bir tür antik bilgisayardı. Bazı iddiaları çürütüldü ama temel fikir ayakta kaldı — Stonehenge güneşi ve ayı inanılmaz bir hassasiyetle takip ediyor. Üstelik alanın altındaki doğal sırt, tam gündönümü güneşinin doğduğu yönü gösteriyordu. Sanki toprak bile bu noktayı işaret ediyordu."}}},
+    {"M": {"text": {"S": "Druidler Stonehenge'i inşa etmedi — bu mesele kapandı. Ama Stukeley bir konuda haklıydı: burası insanların her zaman gökyüzüne uzandığı bir yer. Güneş balçıkla sıvanmaz, derler. Stonehenge'in kurucuları zaten sıvamaya değil, yakalamaya çalışmış — 25 tonluk taşları 240 kilometre öteden sürükleyip yıldızlarla aynı hizaya dizmiş. Beş bin yıl sonra biz hâlâ aynı çemberdeyiz. Aynı güneşi, aynı hayranlıkla izliyoruz."}}}
+  ]}
+}

@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "notre-dame-de-paris"},
+  "langStoryId": {"S": "de#crown-of-thorns-rescue"},
+  "title": {"S": "Die Dornenkrone in den Flammen"},
+  "subtitle": {"S": "Die Menschenkette, die die heiligste Reliquie der Christenheit aus dem Feuer von Notre-Dame rettete"},
+  "excerpt": {"S": "Am Abend des 15. April 2019 brannte Notre-Dame. Doch im Inneren der brennenden Kathedrale spielte sich ein Drama ab, das von außen niemand sehen konnte."},
+  "moralOrLesson": {"S": "Manche Dinge überleben nicht durch Glück, sondern weil in jeder Generation jemand entscheidet, dass es sich lohnt, dafür ins Feuer zu gehen."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "Am Abend des 15. April 2019 stieg Rauch vom Dach von Notre-Dame auf. Innerhalb einer Stunde war der Eichendachstuhl — achthundertfünfzig Jahre alt, gebaut aus einem ganzen Wald — eine Wand aus Feuer. Der Spitzturm der Kathedrale stürzte live im Fernsehen ein, Millionen Menschen sahen weinend zu. Doch im Inneren des brennenden Gebäudes lief ein Drama ab, das von draußen niemand mitbekam."}}},
+    {"M": {"text": {"S": "Pater Jean-Marc Fournier — Seelsorger der Pariser Feuerwehr — kämpfte sich mit einem Trupp Feuerwehrleute durch verrauchte Gänge. Nicht um Menschen zu retten. Sondern um etwas zu bergen, das seit fast zweitausend Jahren ununterbrochen von Menschen gehütet wird: die Dornenkrone, jene Reliquie, von der Christen glauben, sie sei Jesus vor der Kreuzigung aufgesetzt worden. Sie lag in der Schatzkammer der Kathedrale. Und das Feuer rückte näher."}}},
+    {"M": {"text": {"S": "Die Geschichte dieser Krone ist kaum zu glauben. 1239 kaufte König Ludwig IX. von Frankreich — so fromm, dass die Kirche ihn später heiligsprach — sie dem bankrotten Kaiser des Oströmischen Reichs in Konstantinopel ab. Der Preis: über die Hälfte der Jahreseinnahmen Frankreichs. Dann ließ Ludwig die Sainte-Chapelle bauen, eines der schönsten Bauwerke in Paris — nur für diese eine Reliquie. Als die Krone eintraf, zog der König die Schuhe aus und empfing sie barfuß auf der Straße."}}},
+    {"M": {"text": {"S": "Zurück im brennenden Notre-Dame: Die Krone lag in der Schatzkammer hinter elektronischen Schlössern. Fournier und die Feuerwehrleute erreichten sie durch verrauchte Korridore — doch die Hitze hatte die Elektronik zerstört. Ein Feuerwehrmann schlug das Schloss mit roher Gewalt auf. Drinnen fanden sie die Reliquie in ihrer Kristallvitrine — ein Kranz aus geflochtenen Binsen, zusammengehalten von Goldfaden, fast absurd zerbrechlich inmitten des Infernos."}}},
+    {"M": {"text": {"S": "Für Vorsicht war keine Zeit. Von oben regneten brennende Trümmer. Sie bildeten eine Menschenkette und reichten die Vitrine von Hand zu Hand — durch den Rauch, vorbei an glühenden Funken, durch Gänge, die das Feuer orange erleuchtete — bis hinaus in die Pariser Nacht. Als die Dornenkrone in Sicherheit war, sank Fournier auf die Knie. Hartgesottene Feuerwehrleute — Menschen, die beruflich ins Feuer laufen — brachen in Tränen aus."}}},
+    {"M": {"text": {"S": "Und hier wird die Geschichte fast unheimlich. Die Krone stand seit zwei Jahrtausenden immer wieder vor der Vernichtung — und jedes Mal trat jemand vor. Sie überlebte den Untergang Roms. Die Plünderung Konstantinopels 1204, als Kreuzfahrer eine christliche Stadt verwüsteten. Die Französische Revolution, als ein Priester sie versteckte, bevor der Mob jedes religiöse Symbol zerstörte. Zwei Weltkriege. Und 2019 Notre-Dame."}}},
+    {"M": {"text": {"S": "Im Deutschen sagt man: Totgesagte leben länger. Auf diese Krone trifft das zu wie auf kaum etwas sonst — nur dass es kein Zufall ist. Sie überlebt, weil jedes Mal jemand entscheidet, dass sie es wert ist. Fournier ging in eine brennende Kathedrale. Ein Priester riskierte die Guillotine. Ein König gab das halbe Königreich. Egal was man glaubt: Die Dornenkrone überlebt, weil in jeder Katastrophe ein Mensch beschließt, dass dieser zerbrechliche Kranz aus Dornen es wert ist, alles zu riskieren."}}}
+  ]},
+  "icon": {"S": "👑"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paris Fire Brigade reports; Father Jean-Marc Fournier interviews; historical records of the Crown of Thorns"},
+  "characters": {"L": [
+    {"S": "Pater Jean-Marc Fournier"},
+    {"S": "Pariser Feuerwehrleute"},
+    {"S": "König Ludwig IX. (historisch)"},
+    {"S": "Christus (theologisch)"}
+  ]},
+  "lang": {"S": "de"},
+  "era": {"S": "April 15, 2019 (relic dates to 1st century AD)"},
+  "readingTimeMinutes": {"N": "2"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771599631"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "2.35"}, "lat": {"N": "48.853"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "prophets_pilgrims"},
+  "storyId": {"S": "crown-of-thorns-rescue"}
+}

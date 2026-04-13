@@ -1,0 +1,38 @@
+{
+  "siteId": {"S": "sigiriya"},
+  "langStoryId": {"S": "es#cloud-maidens"},
+  "storyId": {"S": "cloud-maidens"},
+  "lang": {"S": "es"},
+  "title": {"S": "Las Doncellas de las Nubes"},
+  "subtitle": {"S": "Quinientas mujeres celestiales cubrieron un acantilado en la selva de Sri Lanka — solo sobreviven diecinueve, y tras mil quinientos años nadie sabe quiénes son"},
+  "excerpt": {"S": "En Sri Lanka hay una roca que sale de la selva como un puño de piedra de doscientos metros. A mitad de la subida, diecinueve mujeres te observan desde la pared. Llevan ahí mil quinientos años. Nadie ha logrado averiguar quiénes son."},
+  "moralOrLesson": {"S": "El arte más grande no responde preguntas: las hace. Quince siglos de visitantes se han plantado frente a estas mujeres y han proyectado sobre ellas sus propios deseos, su propio duelo, su propia fe. Y las Doncellas de las Nubes han devuelto la mirada con la misma media sonrisa serena, guardando su secreto, sobreviviendo a cada teoría y a cada imperio."},
+  "paragraphs": {"L": [
+    {"M": {"text": {"S": "En Sri Lanka hay una roca que sale de la selva como un puño de piedra de doscientos metros. A mitad de la subida, metidas en un hueco protegido del acantilado, diecinueve mujeres te observan desde la pared. Llevan ahí unos mil quinientos años. Están pintadas directamente sobre la roca: piel dorada, torso al descubierto, cubiertas de perlas y oro. Las nubes les envuelven la cintura y ocultan todo lo de abajo. Algunas llevan flores. Otras, ofrendas. Todas comparten una media sonrisa que invita y rechaza al mismo tiempo. Nadie sabe quiénes son."}}},
+    {"M": {"text": {"S": "Y lo más inquietante: estas diecinueve son las supervivientes. La pintura original cubría toda la cara oeste de la roca —más de cinco mil metros cuadrados— con más de quinientas figuras. Imagínate cientos de mujeres doradas flotando entre nubes pintadas, desde los jardines de abajo hasta las puertas de la fortaleza. Todo obra del rey Kashyapa I, que le arrebató el trono a su propio padre hacia el año 477 y convirtió esta roca en su capital real. Quinientas mujeres en un acantilado. Hoy quedan diecinueve."}}},
+    {"M": {"text": {"S": "¿Quiénes son? Los expertos llevan un siglo peleándose por la respuesta. Primera teoría: son mujeres reales de la corte de Kashyapa —reinas, amantes, sirvientas— de camino a un templo con bandejas de ofrendas. Eso explica las bandejas, pero no las nubes. ¿Por qué flotarían mujeres de carne y hueso entre nubes? Segunda teoría: son seres celestiales de la mitología hindú y budista que viven entre las nubes y lanzan flores sobre la tierra. Esa cuadra mejor. De ahí viene el nombre que las hizo famosas: las Doncellas de las Nubes."}}},
+    {"M": {"text": {"S": "Dicen que a la tercera va la vencida, pero en Sigiriya ni la tercera respuesta cierra el misterio — lo vuelve más hermoso. La propuso Senarath Paranavitana, el mayor arqueólogo de Sri Lanka, tras décadas de estudio. Según él, no eran personas ni diosas: eran el clima. Las figuras de piel oscura representaban nubes de tormenta. Las de piel clara, relámpagos. Juntas formaban el monzón tropical que envuelve la roca cada temporada de lluvias, pintado directamente sobre la piedra. Kashyapa no solo levantó una fortaleza en la roca. Pintó su propio cielo."}}},
+    {"M": {"text": {"S": "Las pinturas han resistido mil quinientos años de monzones tropicales. Los constructores tallaron canales de drenaje en la roca para desviar el agua, y todavía funcionan hoy. Pero la naturaleza no fue la peor amenaza. En 1967, unos vándalos atacaron los frescos: arrancaron partes de dos figuras y embarraron pintura verde sobre quince más. El daño fue irreversible. De las más de quinientas figuras originales, solo diecinueve siguen ahí, en su hueco del acantilado, con los colores todavía cálidos después de quince siglos."}}},
+    {"M": {"text": {"S": "Lo que atrapa a todo el que sube es esto: después de todas las teorías, nadie puede demostrar quiénes son. Simplemente flotan ahí en sus nubes pintadas, cargadas de oro, mirándote con esa media sonrisa que no suelta prenda. Los arqueólogos encontraron pequeñas copias de arcilla al pie de la roca — recuerdos que ya se vendían a los visitantes en el siglo VI. La gente lleva mil quinientos años subiendo esta roca y bajando con más preguntas que respuestas. Las Doncellas de las Nubes guardan su secreto. Siempre lo han hecho."}}}
+  ]},
+  "icon": {"S": "🎨"},
+  "tier": {"S": "A"},
+  "source": {"S": "Paranavitana, Senarath. The Significance of the Paintings of Sigiriya, Artibus Asiae, 1950; Coomaraswamy, Ananda K. Mediaeval Sinhalese Art, 1908; Bell, H.C.P. Report on the Sigiriya Excavations, Archaeological Survey of Ceylon, 1904; Bandaranayake, Senake. Sigiriya: City, Palace and Royal Gardens, 2005; UNESCO World Heritage File 202"},
+  "characters": {"L": [
+    {"S": "King Kashyapa I (patron of the frescoes)"},
+    {"S": "The unnamed master painter and his workshop"},
+    {"S": "Dr. Ananda Coomaraswamy (art historian, apsara theory)"},
+    {"S": "Dr. Senarath Paranavitana (archaeologist, cloud-lightning theory)"},
+    {"S": "H.C.P. Bell (British archaeologist who documented the site)"}
+  ]},
+  "era": {"S": "c. 480 CE (painted); 1875 (European rediscovery); 1967 (vandalism)"},
+  "readingTimeMinutes": {"N": "3"},
+  "image": {"S": ""},
+  "updatedAt": {"N": "1771571260"},
+  "disabled": {"BOOL": false},
+  "thumbnail": {"S": ""},
+  "coordinates": {"M": {"lng": {"N": "80.7603"}, "lat": {"N": "7.957"}}},
+  "hasAudio": {"BOOL": false},
+  "isFree": {"BOOL": true},
+  "storyCategory": {"S": "riddles_past"}
+}
