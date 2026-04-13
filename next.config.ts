@@ -14,11 +14,13 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   async headers() {
+    // Do not attach these HTML-oriented headers to `/_next/static/*`.
+    // Some networks / security tools mishandle nosniff (or other flags) on
+    // long-lived CSS/JS chunks, which can leave the page unstyled in Chrome.
     return [
-      {
-        source: "/:path*",
-        headers: securityHeaders,
-      },
+      { source: "/", headers: securityHeaders },
+      { source: "/login", headers: securityHeaders },
+      { source: "/dashboard/:path*", headers: securityHeaders },
     ];
   },
 };
